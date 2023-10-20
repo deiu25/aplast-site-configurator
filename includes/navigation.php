@@ -21,10 +21,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Cariere</a>
-                    </li>
                     <li class="nav-item">
-                        <a href="configurator.php">
-                            <img src="getsvg.php?svg=configurator" alt="configurator" class="nav-link">
+                        <a href="itemSelect.php">
+                            <img src="<?php echo (basename($_SERVER['PHP_SELF']) == 'itemSelect.php') ? 'getsvg.php?svg=configurator' : 'getsvg.php?svg=configuratorBlack'; ?>" alt="configurator" class="nav-link">
                         </a>
                     </li>
                 </ul>
