@@ -4,7 +4,9 @@
         <?php for ($i = 0; $i < 10; $i++) : ?>
             <div class="col-md-4 d-flex justify-content-center mt-5">
                 <div class="d-flex flex-column">
+                <a href="configurator.php">
                     <div class="box d-flex flex-column align-items-center"></div>
+                    </a>
                     <div class="door-text">Usa intrare 1 canat Stanga</div>
                 </div>
             </div>

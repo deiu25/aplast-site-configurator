@@ -23,7 +23,7 @@
                         <a class="nav-link" href="index.php">Cariere</a>
                     <li class="nav-item">
                         <a href="itemSelect.php">
-                            <img src="<?php echo (basename($_SERVER['PHP_SELF']) == 'itemSelect.php') ? 'getsvg.php?svg=configurator' : 'getsvg.php?svg=configuratorBlack'; ?>" alt="configurator" class="nav-link">
+                            <img src="<?php echo (basename($_SERVER['PHP_SELF']) == 'itemSelect.php' || 'configurator.php') ? 'getsvg.php?svg=configurator' : 'getsvg.php?svg=configuratorBlack'; ?>" alt="configurator" class="nav-link">
                         </a>
                     </li>
                 </ul>

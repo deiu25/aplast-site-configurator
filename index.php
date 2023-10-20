@@ -4,7 +4,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Page Content -->
-<div class="container">
+<div class="container margin-top">
     <div class="row">
 
         <!-- Blog Entries Column -->
