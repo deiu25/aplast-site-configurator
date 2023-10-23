@@ -4,8 +4,8 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Page Content -->
-<div class="">
-    <div class="row justify-content-center custom-container margin-top">
+<div class="item-select">
+    <div class="row justify-content-center custom-container ">
         <ul class="nav d-flex flex-row justify-content-center align-items-center nav-pills mb-3" id="myTab" role="tablist">
             <li class="custom d-flex justify-content-center me-5" role="presentation">
                 <button class="nav-link d-flex flex-row justify-content-center align-items-center" id="usiIntrare-tab" data-bs-toggle="tab" data-bs-target="#usiIntrare-tab-pane" type="button" role="tab" aria-controls="usiIntrare-tab-pane" aria-selected="true">

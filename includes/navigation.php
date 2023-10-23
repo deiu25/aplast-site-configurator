@@ -22,8 +22,13 @@
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Cariere</a>
                     <li class="nav-item">
+                        <?php
+                        $currentPage = basename($_SERVER['PHP_SELF']);
+                        ?>
                         <a href="itemSelect.php">
-                            <img src="<?php echo (basename($_SERVER['PHP_SELF']) == 'itemSelect.php' || 'configurator.php') ? 'getsvg.php?svg=configurator' : 'getsvg.php?svg=configuratorBlack'; ?>" alt="configurator" class="nav-link">
+                            <?php if ($currentPage != 'configurator.php') : ?>
+                                <img src="<?php echo $currentPage == 'index.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
+                            <?php endif; ?>
                         </a>
                     </li>
                 </ul>
