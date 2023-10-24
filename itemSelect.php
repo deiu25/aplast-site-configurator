@@ -4,7 +4,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Page Content -->
-<div class="item-select">
+<div class="container margin-top">
     <div class="row justify-content-center custom-container ">
         <ul class="nav d-flex flex-row justify-content-center align-items-center nav-pills mb-3" id="myTab" role="tablist">
             <li class="custom d-flex justify-content-center me-5" role="presentation">

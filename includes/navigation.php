@@ -27,7 +27,7 @@
                         ?>
                         <a href="itemSelect.php">
                             <?php if ($currentPage != 'configurator.php') : ?>
-                                <img src="<?php echo $currentPage == 'index.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
+                                <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
                             <?php endif; ?>
                         </a>
                     </li>
@@ -36,7 +36,9 @@
             <div class="ms-5"></div>
             <div class="navbar-nav flex-row ms-5 align-items-center">
                 <a class="nav-link me-3" href="#"><i class="bi bi-globe"></i></a>
-                <a class="nav-link me-3" href="#"><i class="bi bi-cart"></i></a>
+                <a class="nav-link me-3" href="shoppingCart.php">
+                    <i class="bi bi-cart <?php if ($currentPage == 'shoppingCart.php') echo 'active'; ?>"></i>
+                </a>
                 <a class="nav-link" href="#"><i class="bi bi-list"></i></a>
             </div>
 

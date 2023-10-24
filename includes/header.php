@@ -19,8 +19,11 @@
     <!-- Custom CSS -->
 
     <link href="css/styles.css" rel="stylesheet">
+    <link href="css/navigation.css" rel="stylesheet">
     <link href="css/produsul.css" rel="stylesheet">
     <link href="css/configProdusul.css" rel="stylesheet">
+    <link href="css/cart.css" rel="stylesheet">
+
 
     <link href="css/bootstrap-icons-1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 

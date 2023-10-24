@@ -1,0 +1,14 @@
+/* navigation */
+
+.navbar-nav .nav-link {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0;
+    color: #0c0c0f;
+  }
+  
+  .bi-cart.active {
+    color: #2689A4;
+  }

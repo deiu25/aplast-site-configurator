@@ -36,7 +36,6 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
   }
 
   .prod-div :nth-child(1) {
