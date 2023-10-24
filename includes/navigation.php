@@ -25,11 +25,22 @@
                         <?php
                         $currentPage = basename($_SERVER['PHP_SELF']);
                         ?>
-                        <a href="itemSelect.php">
-                            <?php if ($currentPage != 'configurator.php') : ?>
-                                <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
-                            <?php endif; ?>
-                        </a>
+<?php if ($currentPage == 'configurator.php'): ?>
+    <div class="bg-confg-btn d-flex justify-content-center align-items-center white-bg">
+        <a href="itemSelect.php"></a>
+    </div>
+<?php elseif ($currentPage != 'configurator.php'): ?>
+    <div class="bg-confg-btn d-flex justify-content-center align-items-center
+        <?php
+        if ($currentPage == 'index.php' || $currentPage == 'shoppingCart.php') {
+            echo ' white-bg';
+        }
+        ?>">
+        <a href="itemSelect.php">
+            <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
+        </a>
+    </div>
+<?php endif; ?>
                     </li>
                 </ul>
             </div>
