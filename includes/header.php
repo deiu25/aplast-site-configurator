@@ -24,14 +24,15 @@
     <link href="css/configProdusul.css" rel="stylesheet">
     <link href="css/cart.css" rel="stylesheet">
 
-
     <link href="css/bootstrap-icons-1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
     <link href="css/bootstrap.css" rel="stylesheet">
     
      <!-- Font Awesome -->
      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+     <!-- Font awesome Icon Library -->
+    <link href="css/all.min.css" rel="stylesheet">
 
 </head>
 
-<body>
+<body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="117">

@@ -41,6 +41,10 @@ footer {
   border-radius: 5px;
 }
 
+.custom-scroll {
+  overflow-x: hidden;
+}
+
 .color-primary {
   color: rgba(38, 137, 164, 1);
 }

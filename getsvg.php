@@ -14,6 +14,8 @@ if($svg == 'logo') {
   $file = './images/usiBalcon.svg';
 } else if ($svg == 'ferestre') {
   $file = './images/ferestre.svg';
+} else if ($svg == 'logoWhite') {
+  $file = './images/logoWhite.svg';
 }
 
 header('Content-Type: image/svg+xml');
