@@ -46,19 +46,3 @@
         </div>
     </div>
 </div>
-
-<script>
-    window.addEventListener('resize', function() {
-        var leftMenu = document.querySelector('.left-menu');
-
-        if (window.innerWidth <= 820) {
-            leftMenu.classList.remove('w-50');
-            leftMenu.classList.add('w-100');
-        } else {
-            leftMenu.classList.remove('w-100');
-            leftMenu.classList.add('w-50');
-        }
-    });
-    // Trigger the event on page load
-    window.dispatchEvent(new Event('resize'));
-</script>
