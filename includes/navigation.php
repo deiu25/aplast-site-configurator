@@ -57,4 +57,5 @@
             </div>
         </div>
     </div>
+    <?php include "elements/smallScreensNav.php"; ?>
 </nav>

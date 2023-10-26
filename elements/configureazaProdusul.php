@@ -1,5 +1,5 @@
 <div class="item-config">
-    <div class="d-flex justify-content-center align-items-center">
+    <div class="cfg-fixed-small d-flex justify-content-center align-items-center">
         <div class="d-flex flex-column">
             <h4 class="config-prod-h3 mt-2">Configureaza productul</h4>
             <hr class="top-hr">

@@ -2,7 +2,7 @@
 
 <!-- Navigation -->
 <?php include "includes/navigation.php"; ?>
-<?php include "elements/smallScreensNav.php"; ?>
+
 
 <div class="container margin-top">
     <div class="row">

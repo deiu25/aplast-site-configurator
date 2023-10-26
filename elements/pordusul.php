@@ -1,5 +1,5 @@
 <div class="item">
-    <div class="item-container d-flex justify-content-center align-items-center">
+    <div class="container-fixed-small d-flex justify-content-center align-items-center">
         <div class="d-flex flex-column">
             <h4 class="item-h3 mt-5 ms-3">Usa intrare 1 canat Dreapta</h4>
             <div class="d-flex justify-content-center">
