@@ -16,6 +16,8 @@ if($svg == 'logo') {
   $file = './images/ferestre.svg';
 } else if ($svg == 'logoWhite') {
   $file = './images/logoWhite.svg';
+} else if ($svg == 'map') {
+  $file = './images/map.svg';
 }
 
 header('Content-Type: image/svg+xml');
