@@ -1,12 +1,38 @@
-<footer class="d-flex flex-row justify-content-center align-items-center mt-5">
-    <div class="row">
-        <div class="col-lg-12">
-            <p>&copy; <?php echo date("Y"); ?> Aplast Shop. All rights reserved. Built by Aplast IT Team.</p>
+<footer class="d-flex flex-row justify-content-center mt-5">
+    <div class="container mt-5">
+        <div class="row mt-3">
+            <div class="col-lg-3">
+            <img src="getsvg.php?svg=logoWhite" class="footer-logo" alt="Logo">
+                <h6 class="mt-2">See the difference!</h6>
+            </div>
+            <div class="col-lg-3 footer-titles">
+            <h5 class="mb-4">Aplast</h5>
+                <p>Production</p>
+                <p>Product Lines</p>
+                <p>Offices</p>
+                <p>Architects</p>
+                <p>Installers</p>
+                <p>Sustainability</p>
+                <p>Downloads</p>
+                <p>Compliance</p>
+                <p>Contact</p>
+            </div>
+            <div class="col-lg-3 footer-titles">
+            <h5 class="mb-4">Product categories</h5>
+                <p>PVC</p>
+                <p>Aluminium</p>
+            </div>
+            <div class="col-lg-3 footer-titles">
+            <h5 class="mb-4">Useful links</h5>
+                <p>Terms and conditions</p>
+                <p>Cookie Policy</p>
+                <p>GDPR Policy</p>
+                <p>Customer Information Note</p>
+            </div>
         </div>
-        <!-- /.col-lg-12 -->
     </div>
-    <!-- /.row -->
 </footer>
+
 
 </div>
 <!-- /.container -->

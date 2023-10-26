@@ -97,6 +97,27 @@ footer {
   cursor: pointer;
 }
 
+/* Footer Styles */
+footer {
+  background-color: #005A87;
+  width: calc(100% - 40px);
+  height: 400px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.footer-logo {
+  width: 144px;
+  height: 60px;
+}
+
+div.footer-titles p {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 0.8;
+}
+
+
 @media (min-width: 533px) {
   .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     padding-right: calc(var(--bs-gutter-x) * .5);
