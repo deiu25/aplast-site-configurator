@@ -1,7 +1,25 @@
 .hero-title {
- font-size: 3rem;
- max-width: 1050px;
- letter-spacing: -0.055em;
- font-weight: 600;
- color: #ffff;
+    font-size: 2.5rem;
+    letter-spacing: -0.055em;
+    font-weight: 500;
+    color: #ffff;
+}
+
+.custom-max-width {
+    max-width: 1050px;
+    width: 100%;
+}
+
+
+@media (max-width: 767px) {
+    .hero-title {
+        font-size: 1.5rem;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .hero-title {
+        font-size: 0.5rem;
+    }
 }
