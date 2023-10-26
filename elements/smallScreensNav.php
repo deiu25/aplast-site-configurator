@@ -2,10 +2,13 @@
     <div id="smallMenu" class="menu-div fixed-top w-100 h-100 d-flex">
         <div class="w-50 h-100 d-flex flex-column left-menu overflow-y-auto custom-scroll">
             <div class="w-100">
-                <div class="mb-5">
+                <div class="mb-5 d-flex justify-content-between">
                     <a href="index.php">
                         <img src="getsvg.php?svg=logo" class="navbar-logo-small" alt="Logo">
                     </a>
+                    <button class="navbar-toggler small-screen-nav-show" type="button" onclick="togglesmallMenu()" aria-controls="navbarNav navbarNavSmall" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fa-solid fa-bars menu-btn"></i>
+                    </button>
                 </div>
             </div>
             <div class="row ms-4 text-center">
@@ -35,6 +38,11 @@
         </div>
 
         <div class="w-50 h-100 right-menu">
+            <div class="align-self-end mt-2">
+                <button class="navbar-toggler my-override small-screen-nav-show-blue" type="button" onclick="togglesmallMenu()" aria-controls="navbarNav navbarNavSmall" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa-solid fa-bars menu-btn menu-btn-white"></i>
+                </button>
+            </div>
             <div class="mb-5">
                 <a href="index.php">
                     <img src="getsvg.php?svg=logoWhite" class="navbar-logo-right" alt="Logo">

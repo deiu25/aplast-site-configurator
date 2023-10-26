@@ -27,12 +27,13 @@ navLinksClose();
 //  Menu Tabs Small Screen
 function togglesmallMenu() {
     var smallMenu = document.getElementById('smallMenu');
-    if (smallMenu.style.display === 'none') {
+    if (window.getComputedStyle(smallMenu).display === 'none') {
       smallMenu.style.display = 'block';
     } else {
       smallMenu.style.display = 'none';
     }
   }
+  
 
 //  Small Menu Tabs Width
   window.addEventListener('resize', function() {
