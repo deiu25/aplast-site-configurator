@@ -67,11 +67,17 @@ scroll.reveal(`.home__image img , .home .category-box`, {
     interval: 100,
 });
 
-scroll.reveal(`.main-heading , .services .serv , .menu .title`, {
+scroll.reveal(`.main-heading`, {
     origin: "top",
     interval: 100,
 });
-scroll.reveal(`.about .image`, {
+
+scroll.reveal(`.title`, {
+    origin: "top",
+    interval: 100,
+});
+
+scroll.reveal(`.pctDeVanzare`, {
     origin: "left",
 });
 scroll.reveal(`.about .content`, {

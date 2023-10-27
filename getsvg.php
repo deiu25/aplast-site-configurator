@@ -18,6 +18,8 @@ if($svg == 'logo') {
   $file = './images/logoWhite.svg';
 } else if ($svg == 'map') {
   $file = './images/map.svg';
+} else if ($svg == 'pointOfSale') {
+  $file = './images/pointOfSale.svg';
 }
 
 header('Content-Type: image/svg+xml');
