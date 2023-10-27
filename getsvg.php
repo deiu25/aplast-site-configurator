@@ -20,6 +20,10 @@ if($svg == 'logo') {
   $file = './images/map.svg';
 } else if ($svg == 'pointOfSale') {
   $file = './images/pointOfSale.svg';
+} else if ($svg == 'ofices') {
+  $file = './images/ofices.svg';
+} else if ($svg == 'eu') {
+  $file = './images/eu.svg';
 }
 
 header('Content-Type: image/svg+xml');

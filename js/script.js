@@ -80,7 +80,8 @@ scroll.reveal(`.title`, {
 scroll.reveal(`.pctDeVanzare`, {
     origin: "left",
 });
-scroll.reveal(`.about .content`, {
+
+scroll.reveal(`.aboutImage`, {
     origin: "right",
 });
 
