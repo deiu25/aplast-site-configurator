@@ -86,6 +86,46 @@
   min-height: 720px;
 }
 
+/* liniiDeProduse */
+.lines-p {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.225em;
+  color: #a8a8a8;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.linesImage {
+  width: 350px;
+  height: 350px;
+}
+
+.lines-image-container {
+  overflow: hidden;
+}
+
+.lines-image-container:hover {
+  cursor: pointer;
+}
+
+.lines-zoom {
+  transition: transform 1s ease;
+}
+
+.lines-zoom:hover {
+  transform: scale(1.3);
+}
+
+.lines-image-text {
+  color: white;
+  font-weight: bold;
+  font: 2.5em sans-serif;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
 @media (max-width: 767px) {
   .main-heading {
     font-size: 1.5rem;
