@@ -75,6 +75,11 @@ scroll.reveal(`.main-heading`, {
 scroll.reveal(`.title`, {
     origin: "top",
     interval: 100,
+}); 
+
+scroll.reveal(`.p-center-values`, {
+    origin: "top",
+    interval: 100,
 });
 
 scroll.reveal(`.pctDeVanzare`, {
