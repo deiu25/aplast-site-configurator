@@ -82,6 +82,11 @@ scroll.reveal(`.lines-p`, {
     interval: 100,
 }); 
 
+scroll.reveal(`.contact-p`, {
+    origin: "top",
+    interval: 100,
+});
+
 scroll.reveal(`.p-center-values`, {
     origin: "top",
     interval: 100,

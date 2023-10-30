@@ -3,6 +3,7 @@
 <!-- Navigation -->
 <?php include "includes/navigation.php"; ?>
 
+<!-- Hero Start-->
 <section class="hero">
     <div class="position-relative hero-top">
         <img class="img-fluid" src="getsvg.php?svg=map" alt="map">
@@ -47,7 +48,9 @@
         </div>
     </div>
 </section>
+<!-- Hero END -->
 
+<!-- About START -->
 <section class="bgColor about-container">
     <div class="arrow-container mt-5">
         <div class="oval-container">
@@ -66,7 +69,9 @@
         </div>
     </div>
 </section>
+<!-- About END -->
 
+<!-- Values START -->
 <section class="bgColor values-container">
     <div class="container">
         <h1 class="title text-center">Valorile noastre</h1>
@@ -109,7 +114,9 @@
         </div>
     </div>
 </section>
+<!-- Values END -->
 
+<!-- Lines START -->
 <section class="bgColor about-container">
     <div class="arrow-container mt-5">
         <div class="oval-container">
@@ -130,6 +137,74 @@
         </div>
     </div>
 </section>
+<!-- Lines END -->
+
+   <!-- Contact Section Start -->
+   <section class="contact" id="contact">
+      <div class="row">
+        <div class="col-12">
+          <h1 class="title">Contactează-ne</h1>
+          <p class="contact-p">Trimite-ne detaliile și ideile tale. Vom fi fericiți să revenim la tine!</p>
+        </div>
+      </div>
+      <div class="container">
+        <form class="row">
+          <div class="col-md-6 mb-md-0">
+            <div class="left">
+              <label class="mb-4" for="name">Nume</label>
+              <input
+                id="name"
+                class="w-100 mb-4"
+                type="text"
+                placeholder="Introdu Numele Tau"
+              />
+              <label class="mb-3" for="order">Email</label>
+              <input
+                id="order"
+                class="w-100 mb-4"
+                type="email"
+                placeholder="Email"
+              />
+              <label class="mb-3" for="details">Nr De telefon</label>
+              <input
+                id="details"
+                class="w-100 mb-4"
+                type="number"
+                placeholder="Nr De telefon"
+              />
+              <textarea
+                class="w-100"
+                type="text"
+                placeholder="Mesajul Tau"
+              ></textarea>
+
+              <a href="#" class="main-btn mt-3">Trimite Mesajul</a>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right">
+              <label class="mb-3" for="tara">Tara</label>
+              <input
+                id="tara"
+                class="w-100 mb-4"
+                type="text"
+                placeholder="Tara"
+              />
+              <div class="map">
+                <iframe
+                  class="map w-100"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30153.788252261566!2d72.82321484621745!3d19.141690214227783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b63aceef0c69%3A0x2aa80cf2287dfa3b!2sJogeshwari%20West%2C%20Mumbai%2C%20Maharashtra%20400047!5e0!3m2!1sen!2sin!4v1634657187694!5m2!1sen!2sin"
+                  allowfullscreen=""
+                  loading="lazy"
+                ></iframe>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+    <!-- Contact Section End -->
+
 
 
 </div>
