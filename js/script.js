@@ -116,10 +116,22 @@ scroll.reveal(`.menu .btn , .careers .box `, {
     interval: 100,
 });
 
+scroll.reveal(`.card-values-container`, {
+    origin: "bottom",
+    interval: 100,
+});
+
 scroll.reveal(`.contact .left`, {
     origin: "left",
 });
 scroll.reveal(`.contact .right`, {
+    origin: "right",
+});
+
+scroll.reveal(`.pvc`, {
+    origin: "left",
+});
+scroll.reveal(`.aluminiu`, {
     origin: "right",
 });
 

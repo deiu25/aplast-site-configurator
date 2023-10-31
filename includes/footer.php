@@ -1,4 +1,4 @@
-<footer class="d-flex flex-row justify-content-center mt-5">
+<footer class="d-flex flex-row justify-content-center">
     <div class="container mt-5">
         <div class="row mt-3">
             <div class="col-lg-3">

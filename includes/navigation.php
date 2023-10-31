@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav mx-auto gap-4 align-items-center">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Productie</a>
+                            <a class="nav-link" href="production.php">Productie</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">Birouri</a>
