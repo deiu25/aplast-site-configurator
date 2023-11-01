@@ -111,7 +111,7 @@ scroll.reveal(`.menu .tab-content`, {
     origin: "right",
     interval: 100,
 });
-scroll.reveal(`.menu .btn , .careers .box `, {
+scroll.reveal(`.menu .btn , .careers .box`, {
     origin: "bottom",
     interval: 100,
 });
@@ -121,11 +121,28 @@ scroll.reveal(`.card-values-container`, {
     interval: 100,
 });
 
-scroll.reveal(`.contact .left`, {
+scroll.reveal(`.contact`, {
     origin: "left",
 });
-scroll.reveal(`.contact .right`, {
+scroll.reveal(`.contact`, {
     origin: "right",
+});
+
+scroll.reveal(`.left`, {
+    origin: "left",
+});
+scroll.reveal(`.right`, {
+    origin: "right",
+});
+
+scroll.reveal(`.bottom`, {
+    origin: "bottom",
+    interval: 100,
+});
+
+scroll.reveal(`.top`, {
+    origin: "top",
+    interval: 100,
 });
 
 scroll.reveal(`.pvc`, {

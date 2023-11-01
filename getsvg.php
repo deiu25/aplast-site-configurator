@@ -24,6 +24,10 @@ if($svg == 'logo') {
   $file = './images/ofices.svg';
 } else if ($svg == 'eu') {
   $file = './images/eu.svg';
+} else if ($svg == 'production') {
+  $file = './images/production.svg';
+} else if ($svg == 'hartaProduction') {
+  $file = './images/hartaProduction.svg';
 }
 
 header('Content-Type: image/svg+xml');
