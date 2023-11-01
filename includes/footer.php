@@ -37,6 +37,10 @@
 </div>
 <!-- /.container -->
 
+<!-- About Slider Scripts -->
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/jquery.waitforimages.min.js'></script>
+<script src="js/flexCardFlip.js"></script>
+
 <!-- jQuery -->
 <script src="js/jquery.js"></script>
 

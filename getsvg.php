@@ -28,6 +28,8 @@ if($svg == 'logo') {
   $file = './images/production.svg';
 } else if ($svg == 'hartaProduction') {
   $file = './images/hartaProduction.svg';
+} else if ($svg == 'offices') {
+  $file = './images/offices.svg';
 }
 
 header('Content-Type: image/svg+xml');

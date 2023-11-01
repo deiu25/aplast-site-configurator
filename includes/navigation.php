@@ -14,7 +14,7 @@
                             <a class="nav-link" href="production.php">Productie</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Birouri</a>
+                            <a class="nav-link" href="offices.php">Birouri</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">Contact</a>
@@ -32,12 +32,12 @@
                             <?php elseif ($currentPage != 'configurator.php') : ?>
                                 <div class="bg-confg-btn d-flex justify-content-center align-items-center
                         <?php
-                                if ($currentPage == 'index.php' || $currentPage == 'shoppingCart.php'  || $currentPage == 'production.php') {
+                                if ($currentPage == 'index.php' || $currentPage == 'shoppingCart.php'  || $currentPage == 'production.php' || $currentPage == 'offices.php' || $currentPage == 'contact.php' || $currentPage == 'cariere.php') {
                                     echo ' white-bg';
                                 }
                         ?>">
                                     <a href="itemSelect.php">
-                                        <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' || $currentPage == 'production.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
+                                        <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' || $currentPage == 'production.php' || $currentPage == 'offices.php' || $currentPage == 'contact.php' || $currentPage == 'cariere.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
                                     </a>
                                 </div>
                             <?php endif; ?>

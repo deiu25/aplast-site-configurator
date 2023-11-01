@@ -1,0 +1,342 @@
+.offices-head {
+    min-height: 600px;
+  }
+
+  .subtitle {
+    text-align: center;
+    color: #2689a4;
+    font-weight: bold;
+    font-size: 1.6rem;
+    letter-spacing: -0.025em;
+  }
+
+  .offices-subtitle {
+    font-size: 2.3rem;
+    color: #005a87;
+    font-weight: bold;
+    letter-spacing: -0.025em;
+    margin-bottom: 10px;
+    line-height: 33px;
+  }
+  
+  .prod-img-container {
+    position: relative;
+  }
+  
+  .prod-img-h {
+    width: 100%;
+    height: auto;
+  }
+  
+  .h1-prod-h {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 3.5rem;
+  }
+  
+  .logo-prod {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    transform: translate(50%, -50%);
+  }
+  
+  .p-center-offices {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    font-size: 1.1rem;
+    letter-spacing: -0.025em;
+    line-height: 25px;
+    margin-bottom: 100px;
+    font-family: "Young Serif", serif;
+    color: rgba(241, 240, 240, 0.14);
+  }
+  
+  .offices-container {
+    min-height: 500px;
+  }
+
+  .offices-container-viena {
+    min-height: 600px;
+  }
+  
+  .margin-bottom {
+    margin-bottom: 100px;
+  }
+  
+  .offices-p {
+    color: rgba(241, 240, 240, 0.14);
+    margin-bottom: 0;
+    letter-spacing: -0.025em;
+    line-height: 25px;
+    font-size: 1rem;
+  }
+  
+  .offices-left {
+    width: 100%;
+    margin-right: 100px;
+  }
+  
+  .offices-right {
+    width: 100%;
+    margin-left: 100px;
+  }
+  
+  .offices-mid {
+    min-height: 480px;
+  }
+  
+  .prod-img-m {
+    width: 100%;
+    height: auto;
+  }
+  
+  .h1-prod-m {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+  }
+  
+  .offices-subtitle {
+    font-size: 2.3rem;
+    color: #005a87;
+    font-weight: bold;
+    letter-spacing: -0.025em;
+    margin-bottom: 10px;
+    line-height: 33px;
+  }
+  
+  .offices-image {
+    width: 1400px;
+    max-height: 450px;
+  }
+  
+  .prod-contact-container {
+    min-height: 280px;
+    width: 50%;
+    margin: auto;
+  }
+
+
+
+
+
+  @import url("https://fonts.googleapis.com/css?family=Raleway");
+
+  .offices-section {
+    max-height: 100vh;
+  }
+.offices-flex-container {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  display: -webkit-flex;
+  /* Safari */
+  display: flex;
+  overflow: hidden;
+}
+@media screen and (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.offices-flex-title {
+  color: #f1f1f1;
+  position: relative;
+  font-size: 6vw;
+  margin: auto;
+  text-align: center;
+  transform: rotate(90deg);
+  top: 15%;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+@media screen and (max-width: 768px) {
+  .offices-flex-title {
+    transform: rotate(0deg) !important;
+  }
+}
+
+.offices-flex-about {
+  opacity: 0;
+  color: #f1f1f1;
+  position: relative;
+  width: 70%;
+  font-size: 2vw;
+  padding: 5%;
+  top: 20%;
+  border: 2px solid #f1f1f1;
+  border-radius: 10px;
+  line-height: 1.3;
+  margin: auto;
+  text-align: left;
+  transform: rotate(0deg);
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+@media screen and (max-width: 768px) {
+  .offices-flex-about {
+    padding: 0%;
+    border: 0px solid #f1f1f1;
+  }
+}
+
+.offices-flex-slide {
+  -webkit-flex: 1;
+  /* Safari 6.1+ */
+  -ms-flex: 1;
+  /* IE 10 */
+  flex: 1;
+  cursor: pointer;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+@media screen and (max-width: 768px) {
+  .offices-flex-slide {
+    overflow: auto;
+    overflow-x: hidden;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .offices-flex-slide p {
+    font-size: 2em;
+    font-family: "Raleway", sans-serif;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .offices-flex-slide ul li {
+    font-size: 2em;
+    font-family: "Raleway", sans-serif;
+  }
+}
+
+.offices-flex-slide:hover {
+  -webkit-flex-grow: 3;
+  flex-grow: 3;
+}
+
+.offices-home {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/ceptura.webp);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+@media screen and (min-width: 768px) {
+  .offices-home {
+    animation: aboutFlexSlide 3s 1;
+    animation-delay: 0s;
+  }
+}
+
+@keyframes aboutFlexSlide {
+  0% {
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+  }
+  50% {
+    -webkit-flex-grow: 3;
+    flex-grow: 3;
+  }
+  100% {
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+  }
+}
+@media screen and (min-width: 768px) {
+  .offices-flex-title-home {
+    transform: rotate(90deg);
+    top: 15%;
+    animation: aboutFlexSlide 3s 1;
+    animation-delay: 0s;
+  }
+}
+
+@keyframes homeFlextitle {
+  0% {
+    transform: rotate(90deg);
+    top: 15%;
+  }
+  50% {
+    transform: rotate(0deg);
+    top: 15%;
+  }
+  100% {
+    transform: rotate(90deg);
+    top: 15%;
+  }
+}
+.offices-flex-about-home {
+  opacity: 0;
+}
+@media screen and (min-width: 768px) {
+  .offices-flex-about-home {
+    animation: aboutFlexSlide 3s 1;
+    animation-delay: 0s;
+  }
+}
+
+@keyframes flexAboutHome {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.about {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/bucuresti.webp);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.offices-contact-form {
+  width: 100%;
+}
+
+.offices-input {
+  width: 100%;
+}
+
+.offices-textarea {
+  width: 100%;
+}
+
+.offices-work {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/viena.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+
+.offices-contact {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/lake-696098_1920.jpg);
+  background-size: contain;
+  background-position: center center;
+  background-attachment: fixed;
+}
+

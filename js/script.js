@@ -121,13 +121,6 @@ scroll.reveal(`.card-values-container`, {
     interval: 100,
 });
 
-scroll.reveal(`.contact`, {
-    origin: "left",
-});
-scroll.reveal(`.contact`, {
-    origin: "right",
-});
-
 scroll.reveal(`.left`, {
     origin: "left",
 });
@@ -165,3 +158,4 @@ window.addEventListener("scroll", () => {
 // Update Year
 const year = document.querySelector(".year");
 year.innerHTML = new Date().getFullYear();
+
