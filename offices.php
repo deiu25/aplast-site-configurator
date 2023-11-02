@@ -4,19 +4,24 @@
 <?php include "includes/navigation.php"; ?>
 
 <section class="offices-head">
-    <div class="prod-img-container">
-        <img class="img-fluid prod-img-h" src="getsvg.php?svg=offices" alt="offices">
-        <h1 class="h1-prod-h left">Producție</h1>
-        <img class="logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
+    <div class="offices-img-container">
+        <img class="img-fluid offices-img-h" src="getsvg.php?svg=offices" alt="offices">
+        <h1 class="h1-offices-h left">Birouri</h1>
+        <img class="img-fluid logo-offices right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">Bine ați venit la birourile noastre europene!</h1>
         <h1 class="subtitle mb-2">Suntem mândri să vă primim în cadrul companiei noastre.</h1>
         <p class="p-center-offices fs-5 fw-bold text-muted mt-3">Cu sedii în Austria și România, ne extindem în continuu în țări din întreaga regiune a Europei Centrale și de Est. Experiența noastră se concentrează pe distribuția de produse către cele mai importante lanțuri de magazine de bricolaj din această zonă</p>
     </div>
+    <div class="arrow-container">
+        <div class="oval-container">
+            <i class="bi bi-arrow-down arrow-icon"></i>
+        </div>
+    </div>
 </section>
 
-<section class="offices-section mb-5">
+<section class="offices-section">
     <div class="offices-flex-container">
         <div class="offices-flex-slide offices-home">
             <div class="offices-flex-title offices-flex-title-home">Ceptura</div>
@@ -50,5 +55,9 @@
         </div>
     </div>
 </section>
+
+<!-- Contact Section Start -->
+<?php include "elements/contact.php"; ?>
+<!-- Contact Section End -->
 
 <?php include "includes/footer.php"; ?>

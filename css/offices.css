@@ -1,5 +1,5 @@
 .offices-head {
-    min-height: 600px;
+    min-height: 100vh;
   }
 
   .subtitle {
@@ -19,16 +19,16 @@
     line-height: 33px;
   }
   
-  .prod-img-container {
+  .offices-img-container {
     position: relative;
   }
   
-  .prod-img-h {
+  .offices-img-h {
     width: 100%;
     height: auto;
   }
   
-  .h1-prod-h {
+  .h1-offices-h {
     position: absolute;
     top: 50%;
     left: 20%;
@@ -37,7 +37,7 @@
     font-size: 3.5rem;
   }
   
-  .logo-prod {
+  .logo-offices {
     position: absolute;
     top: 50%;
     right: 20%;
@@ -55,84 +55,12 @@
     font-family: "Young Serif", serif;
     color: rgba(241, 240, 240, 0.14);
   }
-  
-  .offices-container {
-    min-height: 500px;
-  }
-
-  .offices-container-viena {
-    min-height: 600px;
-  }
-  
-  .margin-bottom {
-    margin-bottom: 100px;
-  }
-  
-  .offices-p {
-    color: rgba(241, 240, 240, 0.14);
-    margin-bottom: 0;
-    letter-spacing: -0.025em;
-    line-height: 25px;
-    font-size: 1rem;
-  }
-  
-  .offices-left {
-    width: 100%;
-    margin-right: 100px;
-  }
-  
-  .offices-right {
-    width: 100%;
-    margin-left: 100px;
-  }
-  
-  .offices-mid {
-    min-height: 480px;
-  }
-  
-  .prod-img-m {
-    width: 100%;
-    height: auto;
-  }
-  
-  .h1-prod-m {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    font-size: 1.8rem;
-    text-align: center;
-  }
-  
-  .offices-subtitle {
-    font-size: 2.3rem;
-    color: #005a87;
-    font-weight: bold;
-    letter-spacing: -0.025em;
-    margin-bottom: 10px;
-    line-height: 33px;
-  }
-  
-  .offices-image {
-    width: 1400px;
-    max-height: 450px;
-  }
-  
-  .prod-contact-container {
-    min-height: 280px;
-    width: 50%;
-    margin: auto;
-  }
-
-
-
 
 
   @import url("https://fonts.googleapis.com/css?family=Raleway");
 
   .offices-section {
-    max-height: 100vh;
+    min-height: 100vh;
   }
 .offices-flex-container {
   position: absolute;
