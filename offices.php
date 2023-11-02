@@ -4,10 +4,10 @@
 <?php include "includes/navigation.php"; ?>
 
 <section class="offices-head">
-    <div class="offices-img-container">
+    <div class="position-relative">
         <img class="img-fluid offices-img-h" src="getsvg.php?svg=offices" alt="offices">
-        <h1 class="h1-offices-h left">Birouri</h1>
-        <img class="img-fluid logo-offices right" src="getsvg.php?svg=logoWhite" alt="logo">
+        <h1 class="h1-offices-h left position-absolute">Birouri</h1>
+        <img class="img-fluid logo-offices right position-absolute" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">Bine ați venit la birourile noastre europene!</h1>

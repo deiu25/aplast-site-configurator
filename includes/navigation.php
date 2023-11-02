@@ -17,7 +17,7 @@
                             <a class="nav-link" href="offices.php">Birouri</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Contact</a>
+                            <a class="nav-link" href="contactPage.php">Contact</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">Cariere</a>

@@ -19,17 +19,12 @@
     line-height: 33px;
   }
   
-  .offices-img-container {
-    position: relative;
-  }
-  
   .offices-img-h {
     width: 100%;
     height: auto;
   }
   
   .h1-offices-h {
-    position: absolute;
     top: 50%;
     left: 20%;
     transform: translate(-50%, -50%);
@@ -38,7 +33,6 @@
   }
   
   .logo-offices {
-    position: absolute;
     top: 50%;
     right: 20%;
     transform: translate(50%, -50%);

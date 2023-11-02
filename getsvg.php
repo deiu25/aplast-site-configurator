@@ -30,6 +30,16 @@ if($svg == 'logo') {
   $file = './images/hartaProduction.svg';
 } else if ($svg == 'offices') {
   $file = './images/offices.svg';
+} else if ($svg == 'headerContact') {
+  $file = './images/headerContact.svg';
+} else if ($svg == 'contactOfices') {
+  $file = './images/contactOfices.svg';
+} else if ($svg == 'contactPhone') {
+  $file = './images/contactPhone.svg';
+} else if ($svg == 'contactEmail') {
+  $file = './images/contactEmail.svg';
+} else if ($svg == 'europe') {
+  $file = './images/europe.svg';
 }
 
 header('Content-Type: image/svg+xml');
