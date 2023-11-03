@@ -28,11 +28,11 @@
             <img class="img-fluid linesImage lines-zoom" src="./images/ferestre.webp" alt="pvc">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Ferestre</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="usi.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/usi.webp" alt="aluminiu">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Usi</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="produseSpeciale.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/produse_speciale.webp" alt="aluminiu">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Produse Speciale</span>
         </a>
