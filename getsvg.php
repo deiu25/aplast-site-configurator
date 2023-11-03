@@ -40,6 +40,8 @@ if($svg == 'logo') {
   $file = './images/contactEmail.svg';
 } else if ($svg == 'europe') {
   $file = './images/europe.svg';
+} else if ($svg == 'pvcHeader') {
+  $file = './images/pvcHeader.svg';
 }
 
 header('Content-Type: image/svg+xml');

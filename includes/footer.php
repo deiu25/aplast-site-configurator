@@ -52,5 +52,8 @@
 
 <script src="js/script.js"></script>
 
+<!-- Contact Page scripts -->
+<script src="js/contactPage.js"></script>
+
 </body>
 </html>

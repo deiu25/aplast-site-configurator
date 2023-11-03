@@ -136,13 +136,6 @@ scroll.reveal(`.top`, {
   interval: 100,
 });
 
-scroll.reveal(`.pvc`, {
-  origin: "left",
-});
-scroll.reveal(`.aluminiu`, {
-  origin: "right",
-});
-
 //  Scroll Top Button
 const scrollTopButton = document.querySelector(".scroll-top");
 window.addEventListener("scroll", () => {
