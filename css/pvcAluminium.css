@@ -46,6 +46,23 @@
     font-family: "Young Serif", serif;
   }
 
+
   .standard {
     display: none;
   }
+
+  .category-image-text {
+    color: #fff;
+    font-weight: bold;
+    font: 1em sans-serif;
+    bottom: 5%;
+    left: 50%;
+  }
+
+  .logo-ferestre-bot {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.5);
+  }
+  

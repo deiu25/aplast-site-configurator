@@ -23,8 +23,8 @@
         <button class="btn btn-primary btn-lg left" id="mom-button">Realizat la comandă (MoM)</button>
         <button class="btn btn-outline-primary btn-lg right" id="standard-button">Standard</button>
     </div>
-    <div class="container flex-row justify-content-center gap-4 mt-5 mb-5" id="mom">
-        <a href="pvc.php" class="lines-image-container position-relative">
+    <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom" id="mom">
+        <a href="ferestre.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/ferestre.webp" alt="pvc">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Ferestre</span>
         </a>
@@ -55,13 +55,17 @@
 <?php include "includes/footer.php"; ?>
 
 <script>
-    document.getElementById('standard-button').addEventListener('click', function() {
-        document.getElementById('mom').style.display = 'none';
-        document.getElementById('standard').style.display = 'flex';
-    });
+document.getElementById('standard-button').addEventListener('click', function() {
+    document.getElementById('mom').classList.remove('d-flex');
+    document.getElementById('standard').classList.add('d-flex');
+    document.getElementById('mom').style.display = 'none';
+    document.getElementById('standard').style.display = 'flex';
+});
 
-    document.getElementById('mom-button').addEventListener('click', function() {
-        document.getElementById('mom').style.display = 'flex';
-        document.getElementById('standard').style.display = 'none';
-    });
+document.getElementById('mom-button').addEventListener('click', function() {
+    document.getElementById('standard').classList.remove('d-flex');
+    document.getElementById('mom').classList.add('d-flex');
+    document.getElementById('mom').style.display = 'flex';
+    document.getElementById('standard').style.display = 'none';
+});
 </script>
