@@ -20,11 +20,11 @@
         </div>
     </div>
     <div class="d-flex flex-row justify-content-center gap-5 mt-5 mb-5" id="mom">
-        <a href="pvc.php" class="lines-image-container position-relative">
+        <a href="aluminiuFerestre.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/alum_win.webp" alt="window">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Ferestre</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="aluminiuUsi.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/alum_doors.webp" alt="doors">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Usi</span>
         </a>

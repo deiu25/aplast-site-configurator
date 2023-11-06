@@ -7,11 +7,11 @@
     <div class="pvcAl-img-container">
         <img class="img-fluid pvcAl-img-h" src="getsvg.php?svg=pvcHeader" alt="pvcHeader">
         <p class="pvcAl-p left">Aplast-Windows and Doors</p>
-        <h1 class="h1-pvcAl-h left">Uşi</h1>
+        <h1 class="h1-pvcAl-h left">Aluminiu</h1>
         <img class="logo-pvcAl right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
-        <h1 class="title mb-2">Uşi PVC</h1>
+        <h1 class="title mb-2">Uşi</h1>
     </div>
     <div class="arrow-container mt-5 mb-5">
         <div class="oval-container">
@@ -21,19 +21,31 @@
 
     <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom">
         <a href="ferestre.php" class="lines-image-container position-relative">
-            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="pvc">
-            <span class="category-image-text position-absolute translate-middle">APLAST 70</span>
+            <img class="img-fluid linesImage lines-zoom" src="./images/alUsi59.webp" alt="pvc">
+            <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 59</span>
+            <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers CS68</span>
         </a>
         <a href="aluminiu.php" class="lines-image-container position-relative">
-            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_76Veka.webp" alt="aluminiu">
-            <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 76MD</span>
+            <img class="img-fluid linesImage lines-zoom" src="./images/alUsi68.webp" alt="aluminiu">
+            <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 68</span>
+            <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers CS77</span>
         </a>
         <a href="aluminiu.php" class="lines-image-container position-relative">
-            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aluminiu">
-            <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 82MD</span>
+            <img class="img-fluid linesImage lines-zoom" src="./images/alUsi99.webp" alt="aluminiu">
+            <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 99</span>
+            <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers SL38</span>
+        </a>
+        <a href="aluminiu.php" class="lines-image-container position-relative">
+            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="aluminiu">
+            <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 77</span>
+            <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 8HI</span>
+        </a>
+        <a href="aluminiu.php" class="lines-image-container position-relative">
+            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="aluminiu">
+            <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 97</span>
+            <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 10</span>
         </a>
     </div>
-
 </section>
 
 <section class="production-mid mt-5">

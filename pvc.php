@@ -24,26 +24,26 @@
         <button class="btn btn-outline-primary btn-lg right" id="standard-button">Standard</button>
     </div>
     <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom" id="mom">
-        <a href="ferestre.php" class="lines-image-container position-relative">
+        <a href="momFerestre.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/ferestre.webp" alt="pvc">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Ferestre</span>
         </a>
-        <a href="usi.php" class="lines-image-container position-relative">
+        <a href="momUsi.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/usi.webp" alt="aluminiu">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Usi</span>
         </a>
-        <a href="produseSpeciale.php" class="lines-image-container position-relative">
+        <a href="momProduseSpeciale.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/produse_speciale.webp" alt="aluminiu">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Produse Speciale</span>
         </a>
     </div>
 
     <div class="container flex-row justify-content-center gap-4 mt-5 mb-5 standard" id="standard">
-        <a href="pvc.php" class="lines-image-container position-relative">
+        <a href="standardFerestre.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/ferestre.webp" alt="pvc">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Ferestre</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="standardUsi.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/usi.webp" alt="aluminiu">
             <span class="lines-image-text position-absolute top-50 start-50 translate-middle">Usi</span>
         </a>
