@@ -5,7 +5,7 @@
 
 <section class="production-head">
     <div class="prod-img-container">
-        <img class="img-fluid prod-img-h" src="getsvg.php?svg=production" alt="production">
+        <img class="img-fluid prod-img-h" src="getsvg.php?svg=inst_banner-head" alt="inst_banner-head">
         <h1 class="h1-prod-h left">Instalatori</h1>
         <img class="logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
@@ -16,7 +16,7 @@
 </section>
 
 <section class="production-container">
-<div class="arrow-container">
+    <div class="arrow-container">
         <div class="oval-container">
             <i class="bi bi-arrow-down arrow-icon"></i>
         </div>
@@ -27,7 +27,7 @@
             <p class="production-p fs-5 fw-bold text-muted">Echipa Aplast este formată din experți din industrie cu mai mult de 15 ani de experiență. Ei cunosc provocările cu care te confrunți și găsesc modalități de a le aborda.</p>
             <p class="production-p fs-5 fw-bold text-muted">Știm cât de important este să ne susținem partenerii și că acest lucru ne poate dezvolta afacerea iar asta se bazează pe satisfacția clienților. Un client mulțumit va continua să lucreze cu noi și ne va recomanda în continuare.</p>
             <p class="production-p fs-5 fw-bold text-muted">Sarcina noastră este de a vinde un pachet complet în jurul produselor noastre prin consultanță specializată, livrări fiabile și servicii post-vânzare orientate către client. Suntem gata să împărtășim cunoștințele noastre pentru a vă ajuta să vă dezvoltați propria afacere.</p>
-         </div>
+        </div>
         <div class="right mt-5">
             <img class="img-fluid production-image" src="./images/installer.webp" alt="installer">
         </div>
@@ -44,7 +44,7 @@
 <section class="prod-contact-container d-flex justify-content-center bottom">
     <div class="text-center">
         <h1 class="production-subtitle mb-4">Contact</h1>
-        <p class="fs-5 fw-bold text-muted mt-3">Luați  legătura cu noi și deveniți partener. Indiferent dacă sunteți reprezentantul unui lanț de magazine de bricolaj de renume, un instalator cu experiență, un inginer civil sau un arhitect, suntem aici pentru a vă sprijini în maximizarea potențialului afacerii dvs. Prin colaborarea cu noi, puteți exploata la maximum oportunitățile și resursele disponibile</p>
+        <p class="fs-5 fw-bold text-muted mt-3">Luați legătura cu noi și deveniți partener. Indiferent dacă sunteți reprezentantul unui lanț de magazine de bricolaj de renume, un instalator cu experiență, un inginer civil sau un arhitect, suntem aici pentru a vă sprijini în maximizarea potențialului afacerii dvs. Prin colaborarea cu noi, puteți exploata la maximum oportunitățile și resursele disponibile</p>
         <a href="contactPage.php"><button class="btn btn-outline-primary mt-2">Contactează-ne</button></a>
     </div>
 </section>

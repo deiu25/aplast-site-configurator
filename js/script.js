@@ -136,6 +136,7 @@ scroll.reveal(`.top`, {
   interval: 100,
 });
 
+
 //  Scroll Top Button
 const scrollTopButton = document.querySelector(".scroll-top");
 window.addEventListener("scroll", () => {

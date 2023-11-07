@@ -42,7 +42,12 @@ if($svg == 'logo') {
   $file = './images/europe.svg';
 } else if ($svg == 'pvcHeader') {
   $file = './images/pvcHeader.svg';
-}
+} else if ($svg == 'architects_banner') {
+  $file = './images/architects_banner.svg';
+} else if ($svg == 'inst_banner-head') {
+  $file = './images/inst_banner-head.svg';
+} 
+
 
 header('Content-Type: image/svg+xml');
 readfile($file);
