@@ -2,7 +2,9 @@
     <div class="container mt-5">
         <div class="row mt-3">
             <div class="col-lg-3">
+                <a href="index.php">
                 <img src="getsvg.php?svg=logoWhite" class="footer-logo" alt="Logo">
+                </a>
                 <h6 class="mt-2">See the difference!</h6>
             </div>
             <div class="col-lg-3 footer-titles">

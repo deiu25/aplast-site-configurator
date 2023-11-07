@@ -110,7 +110,7 @@
     <div class="text-center">
         <h1 class="production-subtitle mb-4">Contact</h1>
         <p class="fs-5 fw-bold text-muted mt-3">Luați  legătura cu noi și deveniți partener. Indiferent dacă sunteți reprezentantul unui lanț de magazine de bricolaj de renume, un instalator cu experiență, un inginer civil sau un arhitect, suntem aici pentru a vă sprijini în maximizarea potențialului afacerii dvs. Prin colaborarea cu noi, puteți exploata la maximum oportunitățile și resursele disponibile</p>
-        <button class="btn btn-outline-primary mt-2">Accesați Produsele</button>
+        <a href="contactPage.php"><button class="btn btn-outline-primary mt-2">Contactează-ne</button></a>
     </div>
 </section>
 
