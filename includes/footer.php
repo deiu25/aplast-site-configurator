@@ -2,36 +2,38 @@
     <div class="container mt-5">
         <div class="row mt-3">
             <div class="col-lg-3">
-            <img src="getsvg.php?svg=logoWhite" class="footer-logo" alt="Logo">
+                <img src="getsvg.php?svg=logoWhite" class="footer-logo" alt="Logo">
                 <h6 class="mt-2">See the difference!</h6>
             </div>
             <div class="col-lg-3 footer-titles">
-            <h5 class="mb-4">Aplast</h5>
-                <p>Production</p>
-                <p>Product Lines</p>
-                <p>Offices</p>
-                <p>Architects</p>
-                <p>Installers</p>
-                <p>Sustainability</p>
-                <p>Downloads</p>
-                <p>Compliance</p>
-                <p>Contact</p>
+                <h5 class="mb-4">Aplast</h5>
+                <p><a href="cariere.php">Cariere</a></p>
+                <p><a href="production.php">Production</a></p>
+                <p><a href="productLines.php">Product Lines</a></p>
+                <p><a href="offices.php">Offices</a></p>
+                <p><a href="architects.php">Architects</a></p>
+                <p><a href="installers.php">Installers</a></p>
+                <p><a href="sustainability.php">Sustainability</a></p>
+                <p><a href="downloads.php">Downloads</a></p>
+                <p><a href="compliance.php">Compliance</a></p>
+                <p><a href="contact.php">Contact</a></p>
             </div>
             <div class="col-lg-3 footer-titles">
-            <h5 class="mb-4">Product categories</h5>
-                <p>PVC</p>
-                <p>Aluminium</p>
+                <h5 class="mb-4">Product categories</h5>
+                <p><a href="pvc.php">PVC</a></p>
+                <p><a href="aluminium.php">Aluminium</a></p>
             </div>
             <div class="col-lg-3 footer-titles">
-            <h5 class="mb-4">Useful links</h5>
-                <p>Terms and conditions</p>
-                <p>Cookie Policy</p>
-                <p>GDPR Policy</p>
-                <p>Customer Information Note</p>
+                <h5 class="mb-4">Useful links</h5>
+                <p><a href="terms_and_conditions.php">Terms and conditions</a></p>
+                <p><a href="cookie_policy.php">Cookie Policy</a></p>
+                <p><a href="gdpr_policy.php">GDPR Policy</a></p>
+                <p><a href="customer_information_note.php">Customer Information Note</a></p>
             </div>
         </div>
     </div>
 </footer>
+
 
 
 </div>

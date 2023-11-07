@@ -36,12 +36,12 @@
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers SL38</span>
         </a>
         <a href="aluminiu.php" class="lines-image-container position-relative">
-            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="aluminiu">
+            <img class="img-fluid linesImage lines-zoom" src="./images/alUsi77.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 77</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 8HI</span>
         </a>
         <a href="aluminiu.php" class="lines-image-container position-relative">
-            <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="aluminiu">
+            <img class="img-fluid linesImage lines-zoom" src="./images/alUsi97.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 97</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 10</span>
         </a>

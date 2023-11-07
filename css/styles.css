@@ -117,6 +117,10 @@ div.footer-titles p {
   line-height: 0.8;
 }
 
+div.footer-titles a {
+  text-decoration: none;
+  color: #fff;
+}
 
 @media (min-width: 533px) {
   .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
