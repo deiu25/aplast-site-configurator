@@ -32,6 +32,7 @@
     <link href="css/pvcAluminium.css" rel="stylesheet">
     <link href="css/productLines.css" rel="stylesheet">
     <link href="css/architects.css" rel="stylesheet">
+    <link href="css/durabilitate.css" rel="stylesheet">
 
     <link href="css/bootstrap-icons-1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 

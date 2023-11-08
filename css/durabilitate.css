@@ -1,0 +1,58 @@
+.durabilitate-head {
+    max-height: max-content;
+}
+
+.dura-imgs {
+    max-height: 480px;
+    max-width: 588px;
+}
+
+.dura-div {
+    background-color: #005A87;
+    max-height: 480px;
+ }
+
+ .dura-div p{
+    color: #fff;
+    padding: 5px 65px;
+    font-weight: 600;
+    font-size: 17px;
+ }
+
+ .dura-h1 {
+    margin: 20px 0;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+ }
+
+ .dura-img-div {
+    padding-left: 0!important;
+ }
+
+ .dura-img-div-right {
+    padding-right: 0!important;
+ }
+
+ .dura-3-cols {
+    background-color: #005A87;
+ }
+
+ .dura-card-glow {
+    box-shadow: rgba(255, 255, 255, 0.48) 2px 1px 4px 0px, rgba(255, 255, 255, 0.8) -2px -1px 4px 0px;
+    text-align: center;
+ }
+
+ .dura-card-glow h2 {
+    color: #fff;
+    font-weight: 800;
+    font-size: 22px;
+    padding: 10px 0;
+ }
+
+ .dura-card-glow p {
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 0 10px;
+ }

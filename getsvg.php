@@ -46,6 +46,8 @@ if($svg == 'logo') {
   $file = './images/architects_banner.svg';
 } else if ($svg == 'inst_banner-head') {
   $file = './images/inst_banner-head.svg';
+} else if ($svg == 'durable-hero') {
+  $file = './images/durable-hero.svg';
 } 
 
 

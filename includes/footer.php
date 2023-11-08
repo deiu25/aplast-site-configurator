@@ -10,13 +10,13 @@
             <div class="col-lg-3 footer-titles">
                 <h5 class="mb-4">Aplast</h5>
                 <p><a href="cariere.php">Cariere</a></p>
-                <p><a href="production.php">Production</a></p>
-                <p><a href="productLines.php">Product Lines</a></p>
-                <p><a href="offices.php">Offices</a></p>
-                <p><a href="architects.php">Architects</a></p>
-                <p><a href="installers.php">Installers</a></p>
-                <p><a href="sustainability.php">Sustainability</a></p>
-                <p><a href="downloads.php">Downloads</a></p>
+                <p><a href="production.php">Productie</a></p>
+                <p><a href="productLines.php">Linii de Produse</a></p>
+                <p><a href="offices.php">Birouri</a></p>
+                <p><a href="architects.php">Arhitecți</a></p>
+                <p><a href="installers.php">Instalatori</a></p>
+                <p><a href="durabilitate.php">Durabilitate</a></p>
+                <p><a href="downloads.php">Descarcari</a></p>
                 <p><a href="compliance.php">Compliance</a></p>
                 <p><a href="contact.php">Contact</a></p>
             </div>
