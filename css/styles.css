@@ -159,3 +159,17 @@ div.footer-titles a:hover {
     align-self: start;
   }
 }
+
+/* Download */
+.download-card:hover {
+  transform: scale(1.05); 
+  transition: transform .2s;
+}
+
+.download-card a {
+  text-decoration: none;
+}
+
+.download-card a h6 {
+  color: black; 
+}
