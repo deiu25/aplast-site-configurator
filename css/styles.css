@@ -173,3 +173,17 @@ div.footer-titles a:hover {
 .download-card a h6 {
   color: black; 
 }
+
+/* Terms and Conditions */
+.terms-section > p {
+  margin-top: 1rem;
+}
+
+.terms-section > h6 {
+  margin-top: 3rem;
+}
+
+.terms-table {
+  display: block;
+  margin-top: 10px;
+}

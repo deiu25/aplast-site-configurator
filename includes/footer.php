@@ -23,14 +23,15 @@
             <div class="col-lg-3 footer-titles">
                 <h5 class="mb-4">Product categories</h5>
                 <p><a href="pvc.php">PVC</a></p>
-                <p><a href="aluminium.php">Aluminium</a></p>
+                <p><a href="aluminiu.php">Aluminiu</a></p>
             </div>
             <div class="col-lg-3 footer-titles">
                 <h5 class="mb-4">Useful links</h5>
-                <p><a href="terms_and_conditions.php">Terms and conditions</a></p>
-                <p><a href="cookie_policy.php">Cookie Policy</a></p>
-                <p><a href="gdpr_policy.php">GDPR Policy</a></p>
-                <p><a href="customer_information_note.php">Customer Information Note</a></p>
+                <p><a href="termsAndConditions.php">Termeni si Conditii</a></p>
+                <p><a href="cookiePolicy.php">Politica de Cookie</a></p>
+                <p><a href="gdprPolicy.php">Politica GDPR</a></p>
+                <p><a href="customerInformationNote.php">Nota De Informare Clienti</a></p>
+                <p><a href="canditateInformationNote.php">Nota Informare Candidati (GDPR)</a></p>
             </div>
         </div>
     </div>
