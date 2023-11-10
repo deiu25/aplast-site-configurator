@@ -231,7 +231,6 @@
 }
 .about {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/bucuresti.webp);
-  background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
@@ -253,12 +252,5 @@
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
   }
-
-.offices-contact {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/lake-696098_1920.jpg);
-  background-size: contain;
-  background-position: center center;
-  background-attachment: fixed;
-}
-

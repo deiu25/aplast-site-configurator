@@ -18,7 +18,7 @@
 
 <section class="container mb-5 terms-section">
     <h6>1. DEFINIȚII</h6>
-    <p>1.1. Site-ul www.aplast.ro (denumit în continuare “Site-ul”) este proprietatea S.C. Aplast Wood Industry S.R.L. (denumită în continuare ,,Aplast”), cu sediul social în Ceptura de Jos,comuna Ceptura, cladirea Aplast, jud. Prahova, cod unic de înregistrare 26856598, înregistrată la Oficiul Registrului Comerțului sub nr. J29/2033/18.07.2022.</p>
+    <p>1.1. Site-ul <a href="https://www.aplast.ro" class="gdpr-first-p">www.aplast.ro</a> (denumit în continuare “Site-ul”) este proprietatea S.C. Aplast Wood Industry S.R.L. (denumită în continuare ,,Aplast”), cu sediul social în Ceptura de Jos,comuna Ceptura, cladirea Aplast, jud. Prahova, cod unic de înregistrare 26856598, înregistrată la Oficiul Registrului Comerțului sub nr. J29/2033/18.07.2022.</p>
     <p>1.2. În cuprinsul prezentului document, următorii termeni folosiți vor avea, dacă din context nu rezultă altfel, înțelesurile specificate mai jos:</p>
     <div class="table-responsive">
         <table class="table">
@@ -60,7 +60,7 @@
     <p>2.5. În cazul în care utilizatorul se înscrie cu informații incorecte sau incomplete, „Aplast” își rezervă dreptul de a desființa contul acestuia și de a se opune tuturor încercărilor sale de accesare a produselor și serviciilor oferite de Site.</p>
     <p>2.6. Este interzisă în mod expres folosirea datelor false, care nu corespund realității și care au ca urmare denaturarea conținutului acestora sau comunicările/mesajele eronate, nelegitime realizate în numele altei persoane fizice sau juridice.</p>
     <p>2.7. În cazul accesării neautorizate a contului de către terțe persoane sau a nerespectării condițiilor legale de utilizare ale site-ului, „Aplast” nu își asumă nicio responsabilitate față de consecințele care ar putea apărea ca urmare a acestor nerespectări.</p>
-    <p>2.8. Orice încălcare a prezentelor condiții de utilizare, poate fi semnalată la adresa de email: office@aplast.ro .</p>
+    <p>2.8. Orice încălcare a prezentelor condiții de utilizare, poate fi semnalată la adresa de email:<a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a>.</p>
     <h6>3. RESTRÂNGEREA/ DESFIINȚAREA DREPTULUI DE ACCESARE/UTILIZARE A SITE-ULUI</h6>
     <p>3.1. Site-ul Aplast își rezervă următoarele drepturi, fără a avea obligația notificării prealabile:</p>
     <ul>
@@ -82,7 +82,7 @@
     <p>5.5. În temeiul legislației privind drepturile de autor și drepturile conexe, ,,Aplast” își rezervă următoarele drepturi: interzice reproducerea, distribuirea, importul/exportul, închirierea, împrumutul, modificarea conținutului Site-ului sau a oricărui element constitutiv al său, inclusiv realizarea de Site-uri similare/derivate.</p>
     <p>5.6. Utilizatorii/Clienții au posibilitatea de a face postări cu respectarea regulilor de mai sus și cu mențiunea că nu dobândesc niciun drept/titlu/interes/avantaj asupra Site-ului, indiferent de natura acestuia.</p>
     <h6>6. DESFĂȘURAREA DE EVENIMENTE ȘI CAMPANII COMERCIALE</h6>
-    <p>6.1. Site-ul <a href="https://www.aplast.ro">www.aplast.ro</a> are posibilitatea de a întreprinde campanii comerciale (informare/publicitare/promoționale etc.) în orice moment și pentru orice rubrică a Site-ului, fără a fi necesar acordul prealabil al utilizatorilor în acest sens.</p>
+    <p>6.1. Site-ul <a href="https://www.aplast.ro" class="gdpr-first-p">www.aplast.ro</a> are posibilitatea de a întreprinde campanii comerciale (informare/publicitare/promoționale etc.) în orice moment și pentru orice rubrică a Site-ului, fără a fi necesar acordul prealabil al utilizatorilor în acest sens.</p>
     <p></p>
     <p>6.2. Modificarea/completarea/refacerea/actualizarea oricăror elemente care se află în strânsă legătură cu desfășurarea campaniilor comerciale se poate realiza oricând, nefiind necesar acordul prealabil al utilizatorilor în acest sens.</p>
     <p>6.3. ,,Aplast” își rezervă următoarele drepturi, fără a fi necesar acordul prealabil al utilizatorilor:</p>
@@ -97,13 +97,13 @@
     <h6>8. NOTIFICĂRI. RECLAMAȚII</h6>
     <p>8.1. Utilizatorii/Clienții care își exprimă acordul în acest sens, pot fi notificați în scris, prin email, fax sau scrisoare recomandată cu confirmare de primire sau prin telefon; de asemenea, prin accesarea Site-ului, pot afla informațiile necesare.</p>
     <p>8.2. Modalitățile de informare ale Site-ului, fără a se limita la acestea, pot consta în: transmiterea de notificări individuale prin intermediul adresei de email/adresei poștale puse la dispoziție de către utilizator/client sau notificarea generală transmisă tuturor utilizatorilor/clienților prin publicarea de informații corecte/complete și actualizate pe Site.</p>
-    <p>8.3. Utilizatorii/Clienții pot trimite notificări/întrebări către Aplast prin intermediul adresei de email: office@aplast.ro .</p>
-    <p>8.4. Reclamațiile pot fi transmise la adresa de email: office@apalst.ro.</p>
+    <p>8.3. Utilizatorii/Clienții pot trimite notificări/întrebări către Aplast prin intermediul adresei de email: <a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a>.</p>
+    <p>8.4. Reclamațiile pot fi transmise la adresa de email: <a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a></p>
     <h6>9. CONFIDENȚIALITATEA ȘI PROTECȚIA DATELOR CU CARACTER PERSONAL</h6>
-    <p>9.1. Site-ul <a href="https://www.aplast.ro">www.aplast.ro</a> este operatorul datelor cu caracter personal colectate prin intermediul acestui Site.</p>
+    <p>9.1. Site-ul <a href="https://www.aplast.ro" class="gdpr-first-p">www.aplast.ro</a> este operatorul datelor cu caracter personal colectate prin intermediul acestui Site.</p>
     <p>9.2. Informațiile dobândite de către Aplast prin accesarea/navigarea pe Site, prin completarea formularului de comandă sau prin participarea utilizatorilor la campaniile comerciale pot fi prelucrate în următoarele scopuri, cu respectarea clauzelor de confidențialitate și securitatea informațiilor: executarea contractului încheiat în urma plasării comenzii de produse/servicii, acordarea beneficiilor în legătură cu campaniile promoționale, cercetări statistice sau de marketing, recrutări de personal. Informațiile cu caracter personal aparținând utilizatorilor/clienților sunt administrate/stocate în condiții optime de securitate și sunt folosite numai în scopurile precizate.</p>
     <p>9.3. Potrivit prevederilor Regulamentului (UE) nr. 679/2016 privind protecţia persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulaţie a acestor date, utilizatorii au următoarele drepturi: dreptul de acces la date, dreptul la rectificarea datelor, dreptul la ștergerea datelor, dreptul la restricționarea prelucrării, dreptul la portabilitatea datelor, dreptul de opoziție la prelucrarea datelor, dreptul de a nu fi supus unor decizi automatizate, inclusiv profilarea, dreptul la notificarea operatorului privind rectificarea, ștergerea ori restricționarea datelor cu caracter personal.</p>
-    <p>9.4. Drepturile utilizatorului/clientului se exercită prin formularea în scris a unei cereri, datată și semnată de către acesta și transmisă operatorului la adresa de email office@aplast.ro, sau prin scrisoare recomandată cu confirmare de primire la următoarea adresă poștală: Punctul de Lucru al societății Aplast Wood Industry – comuna Ceptura, sat Ceptura de Jos, județul Prahova. În acest sens, utilizatorul/clientul trebuie să pună la dispoziție o adresă de corespondență pentru a i se aduce la cunoștință modalitatea de soluționare a cererii sale într-un termen rezonabil.</p>
+    <,>9.4. Drepturile utilizatorului/clientului se exercită prin formularea în scris a unei cereri, datată și semnată de către acesta și transmisă operatorului la adresa de email <a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a>, sau prin scrisoare recomandată cu confirmare de primire la următoarea adresă poștală: Punctul de Lucru al societății Aplast Wood Industry – comuna Ceptura, sat Ceptura de Jos, județul Prahova. În acest sens, utilizatorul/clientul trebuie să pună la dispoziție o adresă de corespondență pentru a i se aduce la cunoștință modalitatea de soluționare a cererii sale într-un termen rezonabil.</p>
     <h6>10. ALTE CLAUZE</h6>
     <p>10.1. Clauza de renunțare: orice renunțare la vreuna dintre prevederile prezentului document este efectivă numai dacă aceasta se face în scris și utilizatorul/clientul este notificat în acest sens.</p>
     <p>10.2. Anulabilitate: în situația în care autoritatea competentă în domeniu consideră că prevederile acestui document sunt invalide/ilegale sau lipsite de aplicabilitate conform legii în vigoare, parțial sau total, acestea vor fi înlocuite astfel încât scopurile Termenilor și Condițiilor de utilizare să se realizeze în condiții optime și în conformitate cu prevederile legale. Celelalte dispoziții ale prezentului document rămân valabile.</p>
@@ -124,7 +124,7 @@
     <p>În pagina de produs utilizatorii/clienții au la dispoziție în amănunt informații despre produsul respectiv, cum ar fi: denumire completă, descriere, preț, poze, caracteristici tehnice, documentație tehnică (fișe tehnice, instrucțiuni de montaj, manuale de utilizare etc.), dar și opiniile altor utilizatori/clienți referitoare la acest produs.</p>
     <p>Totodată, în pagina de produs utilizatorii/clienții vor fi înștiințați despre disponibilitatea stocului, prețul (raportat la caracteristicile produsului afișat), timpul de livrare estimat, modalitățile de livrare disponibile și date despre garanțiile acordate pentru fiecare tip de produs. Pentru comenzile care au ca obiect produse cut-to-size (realizate la dimensiunile și caractersticile solicitate de către client), informațiile de mai sus vor fi transmise acestuia în urma transmiterii unei cereri de ofertă.</p>
     <h6>MODALITĂȚILE DE LIVRARE</h6>
-    <p>Livrarea produselor comandate se realizează de către Aplast pentru județele Ilfov- București, Buzău și Prahova. Pentru mai multe detalii vă rugăm să apelați Serviciul Suport Clienți la numărul de telefon 0741293719 sau prin email pe adresa Office@aplast.ro.</p>
+    <>Livrarea produselor comandate se realizează de către Aplast pentru județele Ilfov- București, Buzău și Prahova. Pentru mai multe detalii vă rugăm să apelați Serviciul Suport Clienți la numărul de telefon 0741293719 sau prin email pe adresa<a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a>.</p>
     <p>Costurile de livrare sunt calculate automat în coșul de cumpărături.</p>
     <p>Termenul de livrare pentru produsele aflate pe stoc este de 5 zile. Dacă este depășit acest termen, un operator va comunica clientului un nou termen de livrare. În situatia în care produsul nu se află în stocul curent de marfă, dar produsul este disponibil la comandă, clientul are posibilitatea comandării produsului, iar termenul de livrare poate fi prelungit.</p>
     <h6>POLITICA DE RETUR</h6>
@@ -198,7 +198,7 @@
     <p>Certificatele de garanţie conţin toate informaţiile necesare despre modul de asigurare a garanţiei și perioada de garanţie; acestea se eliberează odată cu achiziționarea produselor și se înmânează la momentul livrării produselor.</p>
     <p>Vă rugăm ca, în cazul în care ați primit produsul fără instrucțiuni de utilizare și/sau certificat de garanție să aduceți la cunoștință lipsa acestora în cel mult 48 de ore de la primirea produsului.</p>
     <p>Dacă întâmpinați dificultăți în utilizarea produselor achiziționate de la ,,Aplast” vă recomandăm să consultați cu atenție indicațiile de utilizare ale acestora.</p>
-    <p>Pentru informații suplimentare sau pentru depunerea unei reclamații, vă rugăm să apelați Serviciul Suport Clienți la numărul de telefon 0741293719 sau la adresa de email office@aplast.ro, pentru remedierea situației.</p>
+    <,>Pentru informații suplimentare sau pentru depunerea unei reclamații, vă rugăm să apelați Serviciul Suport Clienți la numărul de telefon 0741293719 sau la adresa de email <a href="mailto:office@aplast.ro" class="gdpr-first-p">office@aplast.ro</a>, pentru remedierea situației.</p>
 </section>
 
 <?php include "includes/footer.php"; ?>

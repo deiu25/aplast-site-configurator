@@ -14,7 +14,10 @@
         <h1 class="subtitle mb-2">Suntem mândri să vă primim în cadrul companiei noastre.</h1>
         <p class="p-center-offices fs-5 fw-bold text-muted mt-3">Cu sedii în Austria și România, ne extindem în continuu în țări din întreaga regiune a Europei Centrale și de Est. Experiența noastră se concentrează pe distribuția de produse către cele mai importante lanțuri de magazine de bricolaj din această zonă</p>
     </div>
-    <div class="arrow-container">
+</section>
+
+<section class="container mb-5">
+<div class="arrow-container">
         <div class="oval-container">
             <i class="bi bi-arrow-down arrow-icon"></i>
         </div>

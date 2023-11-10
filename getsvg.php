@@ -50,6 +50,10 @@ if($svg == 'logo') {
   $file = './images/durable-hero.svg';
 } else if ($svg == 'terms') {
   $file = './images/terms.svg';
+} else if ($svg == 'gdpr') {
+  $file = './images/gdpr.svg';
+} else if ($svg == 'conf') {
+  $file = './images/conf.svg';
 } 
 
 

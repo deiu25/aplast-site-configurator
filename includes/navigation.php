@@ -24,20 +24,26 @@
                         <li class="nav-item">
                             <?php
                             $currentPage = basename($_SERVER['PHP_SELF']);
+                            $whiteBgPages = ['index.php', 'shoppingCart.php', 'production.php', 'offices.php', 'contactPage.php', 'cariere.php', 'productLines.php', 'architects.php', 'installers.php', 'durabilitate.php', 'downloads.php', 'compliance.php', 'termsAndConditions.php', 'cookiePolicy.php', 'gdprPolicy.php', 'customerInformationNote.php', 'canditateInformationNote.php', 'pvc.php', 'aluminiu.php', 'momFerestre.php', 'momUsi.php', 'momProduseSpeciale.php', 'standardFerestre.php', 'standardUsi.php'];
+
+                            function getSvg($currentPage, $whiteBgPages)
+                            {
+                                if (in_array($currentPage, $whiteBgPages)) {
+                                    return 'getsvg.php?svg=configuratorBlack';
+                                } else {
+                                    return 'getsvg.php?svg=configurator';
+                                }
+                            }
                             ?>
+
                             <?php if ($currentPage == 'configurator.php') : ?>
                                 <div class="bg-confg-btn d-flex justify-content-center align-items-center white-bg">
                                     <a href="itemSelect.php"></a>
                                 </div>
-                            <?php elseif ($currentPage != 'configurator.php') : ?>
-                                <div class="bg-confg-btn d-flex justify-content-center align-items-center
-                        <?php
-                                if ($currentPage == 'index.php' || $currentPage == 'shoppingCart.php'  || $currentPage == 'production.php' || $currentPage == 'offices.php' || $currentPage == 'contactPage.php' || $currentPage == 'cariere.php') {
-                                    echo ' white-bg';
-                                }
-                        ?>">
+                            <?php else : ?>
+                                <div class="bg-confg-btn d-flex justify-content-center align-items-center <?php echo in_array($currentPage, $whiteBgPages) ? 'white-bg' : '' ?>">
                                     <a href="itemSelect.php">
-                                        <img src="<?php echo $currentPage == 'index.php' || $currentPage == 'shoppingCart.php' || $currentPage == 'production.php' || $currentPage == 'offices.php' || $currentPage == 'contactPage.php' || $currentPage == 'cariere.php' ? 'getsvg.php?svg=configuratorBlack' : 'getsvg.php?svg=configurator'; ?>" alt="configurator" class="nav-link">
+                                        <img src="<?php echo getSvg($currentPage, $whiteBgPages); ?>" alt="configurator" class="nav-link">
                                     </a>
                                 </div>
                             <?php endif; ?>

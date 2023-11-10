@@ -18,7 +18,7 @@
                 <p><a href="durabilitate.php">Durabilitate</a></p>
                 <p><a href="downloads.php">Descarcari</a></p>
                 <p><a href="compliance.php">Compliance</a></p>
-                <p><a href="contact.php">Contact</a></p>
+                <p><a href="contactPage.php">Contact</a></p>
             </div>
             <div class="col-lg-3 footer-titles">
                 <h5 class="mb-4">Product categories</h5>
