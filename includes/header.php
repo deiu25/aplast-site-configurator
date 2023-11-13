@@ -33,6 +33,7 @@
     <link href="css/productLines.css" rel="stylesheet">
     <link href="css/architects.css" rel="stylesheet">
     <link href="css/durabilitate.css" rel="stylesheet">
+    <link href="css/items.css" rel="stylesheet">
 
     <link href="css/bootstrap-icons-1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -42,7 +43,7 @@
      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
      <!-- Font awesome Icon Library -->
     <link href="css/all.min.css" rel="stylesheet">
-
+    
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="117">

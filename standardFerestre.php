@@ -24,7 +24,7 @@
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast60-2.webp" alt="aplast60">
             <span class="category-image-text position-absolute translate-middle">APLAST 60</span>
         </a>
-        <a href="ferestre.php" class="lines-image-container position-relative">
+        <a href="aplast70Klass.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aplast70">
             <span class="category-image-text position-absolute translate-middle">APLAST 70</span>
         </a>

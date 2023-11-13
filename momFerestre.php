@@ -20,7 +20,7 @@
     </div>
 
     <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom">
-        <a href="ferestre.php" class="lines-image-container position-relative">
+        <a href="aplast70Klass.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="pvc">
             <span class="category-image-text position-absolute translate-middle">APLAST 70</span>
         </a>
