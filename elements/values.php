@@ -3,7 +3,7 @@
         <h1 class="title text-center">Valorile noastre</h1>
         <p class="fw-bold p-center-values mb-5">Succesul Aplast este determinat de munca în echipă, fiabilitatea în service și oferirea de soluții partenerilor noștri. Folosind materiale reciclabile și reducând consumul de energie, îi ajutăm pe clienții noștri să-și reducă amprenta de carbon.</p>
 
-        <div class="card-values-container">
+        <div class="card-values-container flex-column-values">
             <div class="card-values-panel">
                 <div class="card-values-ring">
                     <div class="card-values-card card-values-card1"></div>
