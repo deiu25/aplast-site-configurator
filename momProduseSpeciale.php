@@ -20,7 +20,7 @@
     </div>
 
     <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom">
-    <a href="aluminiu.php" class="lines-image-container position-relative">
+    <a href="aplast60Klass.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">APLAST 60 Klass</span>
         </a>
@@ -28,11 +28,11 @@
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="pvc">
             <span class="category-image-text position-absolute translate-middle">APLAST 70</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="veka76.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_76Veka.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 76MD</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="veka82.php" class="lines-image-container position-relative">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 82MD</span>
         </a>
