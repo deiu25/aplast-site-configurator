@@ -6,7 +6,7 @@
     </div>
       <div class="row mt-5">
         <div class="col-12">
-          <h1 class="title">Contactează-ne</h1>
+          <h1 class="contact-title">Contactează-ne</h1>
           <p class="contact-p">Trimite-ne detaliile și ideile tale. Vom fi fericiți să revenim la tine!</p>
         </div>
       </div>

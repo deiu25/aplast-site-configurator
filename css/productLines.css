@@ -1,3 +1,8 @@
+.product-lines-container {
+  min-height: auto;
+  padding-bottom: 30px;
+}
+
 .pl-first-cont img {
   width: 70%;
   height: 100%;
@@ -71,4 +76,10 @@
 
 .bi-arrow-right {
     vertical-align: -0.125em;
+}
+
+@media (max-width: 480px) {
+  .lines-image-text {
+    font-size: 1.5em;
+  }
 }

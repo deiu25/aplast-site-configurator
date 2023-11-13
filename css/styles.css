@@ -127,6 +127,19 @@ div.footer-titles a:hover {
   text-shadow: rgba(255, 255, 255, 0.8) 0 0 10px;
 }
 
+@media (max-width: 575px) {
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    min-height: 800px!important;
+  }
+}
+
+/* End footer styles */
+
 @media (min-width: 533px) {
   .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     padding-right: calc(var(--bs-gutter-x) * .5);

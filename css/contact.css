@@ -1,3 +1,11 @@
+.contact-title {
+    text-align: center;
+    color: #2689a4;
+    font-weight: bold;
+    font-size: 2.6rem;
+    letter-spacing: -0.025em;
+  }
+
 .contact-p {
     text-transform: uppercase;
     font-size: 0.8rem;
@@ -54,3 +62,13 @@
     color: #fff;
     text-decoration: none;
   }
+
+  @media (max-width: 290px) {
+    .contact-title {
+      font-size: 1.5rem;
+    }
+
+    .contact-p {
+        font-size: 0.7rem;
+        }
+}

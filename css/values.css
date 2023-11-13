@@ -148,7 +148,6 @@
     gap: 50px;
   }
   
-
   @media (max-width: 991px) {
     .values-container {
       min-height: 1800px;

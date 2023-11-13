@@ -1,13 +1,13 @@
 <footer class="d-flex flex-row justify-content-center">
     <div class="container mt-5">
         <div class="row mt-3">
-            <div class="col-lg-3">
+            <div class="col-sm-3">
                 <a href="index.php">
-                <img src="getsvg.php?svg=logoWhite" class="footer-logo" alt="Logo">
+                <img src="getsvg.php?svg=logoWhite" class="img-fluid footer-logo" alt="Logo">
                 </a>
                 <h6 class="mt-2">See the difference!</h6>
             </div>
-            <div class="col-lg-3 footer-titles">
+            <div class="col-sm-3 footer-titles">
                 <h5 class="mb-4">Aplast</h5>
                 <p><a href="cariere.php">Cariere</a></p>
                 <p><a href="production.php">Productie</a></p>
@@ -20,12 +20,12 @@
                 <p><a href="compliance.php">Compliance</a></p>
                 <p><a href="contactPage.php">Contact</a></p>
             </div>
-            <div class="col-lg-3 footer-titles">
+            <div class="col-sm-3 footer-titles">
                 <h5 class="mb-4">Product categories</h5>
                 <p><a href="pvc.php">PVC</a></p>
                 <p><a href="aluminiu.php">Aluminiu</a></p>
             </div>
-            <div class="col-lg-3 footer-titles">
+            <div class="col-sm-3 footer-titles">
                 <h5 class="mb-4">Useful links</h5>
                 <p><a href="termsAndConditions.php">Termeni si Conditii</a></p>
                 <p><a href="cookiePolicy.php">Politica de Cookie</a></p>

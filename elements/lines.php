@@ -1,4 +1,4 @@
-<section class="bgColor about-container">
+<section class="bgColor product-lines-container">
     <div class="arrow-container mt-5">
         <div class="oval-container">
             <i class="bi bi-arrow-down arrow-icon"></i>
