@@ -32,6 +32,43 @@
   letter-spacing: -0.025em;
 }
 
+/* Hide section at screen width less than 999px */
+@media (max-width: 999px) {
+  .div-relative {
+    display: none;
+  }
+
+  .abouth1 {
+    display: none;
+  }
+
+  .cont-relative-small-show {
+    display: block;
+  }
+}
+
+@media (min-width: 1000px) {
+  .div-relative {
+    display: block;
+  }
+
+  .abouth1 {
+    display: block;
+  }
+
+  .cont-relative-small-show {
+    display: none;
+  }
+}
+
+.poligon-small {
+  max-width: 330px;
+  height: 120px;
+  background: #ffffff;
+  border-bottom: 4px solid #2689a4;
+  margin-bottom: 50px;
+}
+
 /* arrow */
 
 .oval-container {
