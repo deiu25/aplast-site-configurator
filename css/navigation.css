@@ -83,6 +83,10 @@ button.navbar-toggler {
   border: none;
 }
 
+.margin-left {
+  margin-left: 16px;
+}
+
 @media (min-width: 992px) {
   .navbar-expand-lg .navbar-toggler.my-override {
       display: block !important;
@@ -110,5 +114,14 @@ button.navbar-toggler {
     font-size: 17px;
     line-height: 15px;
     font-weight: 500;
+  }
+}
+
+@media (max-width: 331px) {
+  .ms-5 {
+    margin-left: 0 !important;
+  }
+  .nav-logo {
+    height: 30px!important;
   }
 }

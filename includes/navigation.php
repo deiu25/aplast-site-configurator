@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg" id="navbar">
     <div class="container-fluid d-flex align-items-center">
         <a class="navbar-logo" href="index.php">
-            <img src="getsvg.php?svg=logo" alt="Logo">
+            <img class="img-fluid nav-logo" src="getsvg.php?svg=logo" alt="Logo">
         </a>
 
         <div class="d-flex align-items-center">
@@ -51,8 +51,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="ms-5"></div>
-            <div class="navbar-nav flex-row ms-5 align-items-center">
+            <div class="margin-left"></div>
+            <div class="navbar-nav flex-row margin-left align-items-center">
                 <a class="nav-link me-3" href="#"><i class="bi bi-globe"></i></a>
                 <a class="nav-link me-3 d-none d-lg-block" href="shoppingCart.php">
                     <i class="bi bi-cart <?php if ($currentPage == 'shoppingCart.php') echo 'active'; ?>"></i>
