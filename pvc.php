@@ -8,7 +8,7 @@
         <img class="img-fluid pvcAl-img-h" src="getsvg.php?svg=pvcHeader" alt="pvcHeader">
         <p class="pvcAl-p left">Aplast-Windows and Doors</p>
         <h1 class="h1-pvcAl-h left">PVC</h1>
-        <img class="logo-pvcAl right" src="getsvg.php?svg=logoWhite" alt="logo">
+        <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">PVC</h1>

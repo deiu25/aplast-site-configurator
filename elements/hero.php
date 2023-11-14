@@ -1,7 +1,7 @@
 <section class="position-relative">
     <img class="img-fluid" src="getsvg.php?svg=map" alt="map">
     <div class="text-center position-absolute top-50 start-50 translate-middle">
-        <h2 class="hero-title main-heading">Din 2002 producerea de ferestre și uși fiabile, accesibile şi durabile pentru clienții europeni</h2>
+        <h2 class="main-heading mb-5">Din 2002 producerea de ferestre și uși fiabile, accesibile şi durabile pentru clienții europeni</h2>
     </div>
     <div class="div-relative">
         <div class="poligon-div d-flex justify-content-center position-absolute bottom-0 start-50 translate-middle-x">

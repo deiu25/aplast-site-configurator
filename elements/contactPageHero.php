@@ -7,7 +7,7 @@
         <div class="poligon-div d-flex justify-content-center position-absolute bottom-0 start-50 translate-middle-x">
             <div class="poligon d-flex flex-row pctDeVanzare">
                 <div class="mx-3 mt-4">
-                    <img class="" src="getsvg.php?svg=contactPhone" alt="contactPhone">
+                    <img src="getsvg.php?svg=contactPhone" alt="contactPhone">
                 </div>
                 <div class="mt-4 me-5">
                 <h5 class="text-center heroh5">Numar De Telefon</h5>
@@ -16,7 +16,7 @@
             </div>
             <div class="poligon d-flex flex-row pctDeVanzare">
                 <div class="mx-3 mt-4">
-                    <img class="" src="getsvg.php?svg=contactOfices" alt="contactOfices">
+                    <img src="getsvg.php?svg=contactOfices" alt="contactOfices">
                 </div>
                 <div class="mt-4 me-5">
                 <h5 class="text-center heroh5">Prahova, Romania</h5>
@@ -25,7 +25,7 @@
             </div>
             <div class="poligon d-flex flex-row pctDeVanzare">
                 <div class="mx-3 mt-4">
-                    <img class="" src="getsvg.php?svg=contactEmail" alt="contactEmail">
+                    <img src="getsvg.php?svg=contactEmail" alt="contactEmail">
                 </div>
                 <div class="mt-4 me-5">
                 <h5 class="text-center heroh5">Email</h5>

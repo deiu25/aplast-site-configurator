@@ -1,83 +1,134 @@
 .pvcAl-head {
+}
 
-  }
-  
-  .pvcAl-img-container {
-    position: relative;
-  }
-  
-  .pvcAl-img-h {
-    width: 100%;
-    height: auto;
-  }
-  
-  .h1-pvcAl-h {
-    position: absolute;
-    top: 55%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    font-size: 3.5rem;
-  }
+.pvcAl-img-container {
+  position: relative;
+}
 
+.pvcAl-img-h {
+  width: 100%;
+  height: auto;
+}
+
+.h1-pvcAl-h {
+  position: absolute;
+  top: 55%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 3.5rem;
+}
+
+.pvcAl-p {
+  position: absolute;
+  top: 35%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.logo-pvcAl {
+  position: absolute;
+  top: 50%;
+  right: 20%;
+  transform: translate(50%, -50%);
+}
+
+.p-center-pvcAl {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-size: 1.1rem;
+  letter-spacing: -0.015em;
+  margin-bottom: 100px;
+  font-family: "Young Serif", serif;
+}
+
+.standard {
+  display: none;
+}
+
+.category-image-text {
+  color: #fff;
+  font-weight: bold;
+  font: 1em sans-serif;
+  bottom: 7%;
+  left: 50%;
+}
+
+.category-image-text-aluminiu {
+  color: #fff;
+  font-weight: bold;
+  font: 1em sans-serif;
+  bottom: 25%;
+  left: 50%;
+}
+
+.category-image-sub-text-aluminiu {
+  color: #fff;
+  font: 1em sans-serif;
+  bottom: 1%;
+  left: 50%;
+}
+
+.logo-ferestre-bot {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.5);
+}
+
+.pvc-alu-mid {
+  min-height: auto;
+}
+
+@media (max-width: 972px) {
+  .pvc-alu-mid {
+    height: 400px !important;
+  }
+}
+
+@media (max-width: 783px) {
   .pvcAl-p {
-    position: absolute;
-    top: 35%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
-  
-  .logo-pvcAl {
-    position: absolute;
-    top: 50%;
-    right: 20%;
-    transform: translate(50%, -50%);
+  .h1-pvcAl-h {
+    font-size: 3rem;
   }
-  
+}
+
+@media (max-width: 600px) {
+  .pvcAl-p {
+    font-size: 0.9rem;
+  }
+  .h1-pvcAl-h {
+    font-size: 2.5rem;
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 600px) {
+  .pvcAl-p {
+    font-size: 0.7rem;
+  }
+  .h1-pvcAl-h {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .pvcAl-p {
+    font-size: 0.6rem;
+    margin-left: 15px;
+  }
+  .h1-pvcAl-h {
+    font-size: 1.7rem;
+  }
+} 
+
+@media (max-width: 540px) {
   .p-center-pvcAl {
-    text-align: center;
-    width: 50%;
-    margin: auto;
-    font-size: 1.1rem;
-    letter-spacing: -0.015em;
-    margin-bottom: 100px;
-    font-family: "Young Serif", serif;
+    width: 70%;
   }
-
-
-  .standard {
-    display: none;
-  }
-
-  .category-image-text {
-    color: #fff;
-    font-weight: bold;
-    font: 1em sans-serif;
-    bottom: 7%;
-    left: 50%;
-  }
-
-  .category-image-text-aluminiu {
-    color: #fff;
-    font-weight: bold;
-    font: 1em sans-serif;
-    bottom: 25%;
-    left: 50%;
-  }
-
-  .category-image-sub-text-aluminiu {
-    color: #fff;
-    font: 1em sans-serif;
-    bottom: 1%;
-    left: 50%;
-  }
-
-  .logo-ferestre-bot {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translate(-50%, -50%) scale(0.5);
-  }
-  
+} 

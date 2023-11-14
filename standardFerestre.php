@@ -32,10 +32,10 @@
 
 </section>
 
-<section class="production-mid mt-5">
+<section class="pvc-alu-mid mt-5">
     <div class="prod-img-container">
         <img class="img-fluid prod-img-m" src="./images/prodMidImg.webp" alt="production">
-        <img class="logo-ferestre-bot bottom" src="getsvg.php?svg=logoWhite" alt="logo">
+        <img class="img-fluid logo-ferestre-bot bottom" src="getsvg.php?svg=logoWhite" alt="logo">
         <h1 class="h1-prod-m bottom">Ne străduim să oferim soluția optimă între performanță și design, fără a face compromisuri asupra calității</h1>
     </div>
 </section>

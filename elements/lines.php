@@ -5,7 +5,7 @@
         </div>
     </div>
     <div class="mt-5"></div>
-    <p class="lines-p">produsele noastre</p>
+    <p class="lines-p">Produsele noastre</p>
     <h1 class="title mb-5">Linii de produse</h1>
     <div class="container d-flex flex-row justify-content-center gap-4">
         <a href="pvc.php" class="lines-image-container position-relative left">
