@@ -105,16 +105,16 @@
     width: 100%;
 }
 
+.aboutImage {
+  width: 100%;
+}
+
 .aboutSubtitle {
     font-size: 3.5rem;
     color: #005A87;
     font-weight: bold;
     letter-spacing: -0.025em;
     margin-bottom: 10px;
-}
-
-.aboutImage {
-  width: 100%;
 }
 
 .about-container {
