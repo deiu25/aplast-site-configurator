@@ -1,11 +1,11 @@
 .offices-head {
-    min-height: 100vh;
+    min-height: auto;
   }
 
   .subtitle {
     text-align: center;
     color: #2689a4;
-    font-weight: bold;
+    font-weight: bold !important;
     font-size: 1.6rem;
     letter-spacing: -0.025em;
   }
@@ -253,4 +253,16 @@
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+  }
+
+  @media (max-width: 600px) {
+    .p-center-offices {
+      width: 70%;
+    }
+  }
+
+  @media (max-width: 345px) {
+    .subtitle {
+      font-size: 1.2rem;
+    }
   }

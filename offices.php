@@ -4,13 +4,13 @@
 <?php include "includes/navigation.php"; ?>
 
 <section class="offices-head">
-    <div class="position-relative">
-        <img class="img-fluid offices-img-h" src="getsvg.php?svg=offices" alt="offices">
-        <h1 class="h1-offices-h left position-absolute">Birouri</h1>
-        <img class="img-fluid logo-offices right position-absolute" src="getsvg.php?svg=logoWhite" alt="logo">
+<div class="prod-img-container">
+        <img class="img-fluid prod-img-h" src="getsvg.php?svg=production" alt="production">
+        <h1 class="h1-prod-h left">Birouri</h1>
+        <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
-        <h1 class="title mb-2">Bine ați venit la birourile noastre europene!</h1>
+        <h1 class="title mb-2 display-4 display-md-3 display-lg-2 display-xl-1">Bine ați venit la birourile noastre europene!</h1>
         <h1 class="subtitle mb-2">Suntem mândri să vă primim în cadrul companiei noastre.</h1>
         <p class="p-center-offices fs-5 fw-bold text-muted mt-3">Cu sedii în Austria și România, ne extindem în continuu în țări din întreaga regiune a Europei Centrale și de Est. Experiența noastră se concentrează pe distribuția de produse către cele mai importante lanțuri de magazine de bricolaj din această zonă</p>
     </div>
