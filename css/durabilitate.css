@@ -3,16 +3,19 @@
 }
 
 .dura-imgs {
-    max-height: 480px;
-    max-width: 588px;
+    height: 620px;
+    max-width: 450px;
 }
 
 .dura-div {
-    background-color: #005A87;
     max-height: 480px;
  }
 
- .dura-div p{
+ .dura-para {
+   background-color: #005A87;
+ }
+
+ .dura-para p{
     color: #fff;
     padding: 5px 65px;
     font-weight: 600;
@@ -24,14 +27,6 @@
     text-align: center;
     color: #fff;
     font-weight: 700;
- }
-
- .dura-img-div {
-    padding-left: 0!important;
- }
-
- .dura-img-div-right {
-    padding-right: 0!important;
  }
 
  .dura-3-cols {
@@ -55,4 +50,11 @@
     font-weight: 600;
     font-size: 17px;
     padding: 0 10px;
+ }
+
+ @media (max-width: 991px) {
+   .dura-imgs {
+      height: 100%;
+      min-width: 696px;
+  }  
  }
