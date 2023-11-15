@@ -6,7 +6,7 @@
 <section class="production-head">
     <div class="prod-img-container">
         <img class="img-fluid prod-img-h" src="getsvg.php?svg=production" alt="production">
-        <h1 class="h1-prod-h left">Producție</h1>
+        <h1 class="mx-3 h1-prod-h left">Producție</h1>
         <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">

@@ -83,6 +83,12 @@
   min-height: auto;
 }
 
+@media (max-width: 994px) {
+  .logo-ferestre-bot {
+    display: none;
+  }
+}
+
 @media (max-width: 972px) {
   .pvc-alu-mid {
     height: 400px !important;
@@ -130,5 +136,17 @@
 @media (max-width: 540px) {
   .p-center-pvcAl {
     width: 70%;
+  }
+} 
+
+@media (max-width: 285px) {
+  .h1-pvcAl-h {
+    font-size: 1.2rem;
+  }
+} 
+
+@media (max-width: 219px) {
+  .h1-pvcAl-h {
+    font-size: 1rem;
   }
 } 

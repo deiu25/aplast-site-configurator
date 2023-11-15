@@ -235,6 +235,10 @@
   .lab-test-container {
     min-height: auto;
   }
+
+  .logo-prod {
+    max-width: 50px!important;
+  }
 }
 
 @media (max-width: 240px) {

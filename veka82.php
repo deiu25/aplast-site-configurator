@@ -384,7 +384,7 @@
     <div class="text-center">
         <h1 class="production-subtitle mb-4">Contact</h1>
         <p class="fs-5 fw-bold text-muted mt-3">Trimiteți-vă detaliile, gândurile și ideile. Vom fi bucuroși să vă răspundem!</p>
-        <a href="contactPage.php"><button class="btn btn-outline-primary mt-2">Contactează-ne</button></a>
+        <a href="contactPage.php"><button class="btn btn-outline-primary mt-2 mb-5">Contactează-ne</button></a>
     </div>
 </section>
 

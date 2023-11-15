@@ -8,7 +8,7 @@
         <img class="img-fluid pvcAl-img-h" src="getsvg.php?svg=pvcHeader" alt="pvcHeader">
         <p class="pvcAl-p left">Aplast-Windows and Doors</p>
         <h1 class="h1-pvcAl-h left">Aluminiu</h1>
-        <img class="logo-pvcAl right" src="getsvg.php?svg=logoWhite" alt="logo">
+        <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">Uşi</h1>
@@ -19,28 +19,28 @@
         </div>
     </div>
 
-    <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom">
-        <a href="ferestre.php" class="lines-image-container position-relative">
+    <div class="container d-flex flex-column flex-xl-row justify-content-center gap-4 mt-5 mb-5 mom">
+    <a href="ferestre.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/alUsi59.webp" alt="pvc">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 59</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers CS68</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="ferestre.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/alUsi68.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 68</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers CS77</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="ferestre.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/alUsi99.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 99</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers SL38</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="ferestre.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/alUsi77.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 77</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 8HI</span>
         </a>
-        <a href="aluminiu.php" class="lines-image-container position-relative">
+        <a href="ferestre.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/alUsi97.webp" alt="aluminiu">
             <span class="category-image-text-aluminiu position-absolute translate-middle">APLAST AL 97</span>
             <span class="category-image-sub-text-aluminiu position-absolute translate-middle">Reynaers Masterline 10</span>
@@ -66,7 +66,7 @@
         <h1 class="production-subtitle mb-4">Contactează-ne</h1>
         <p class="fs-5 fw-bold text-muted mt-3">Trimite-ne detaliile și ideile tale. Vom fi fericiți să revenim la tine!</p>
         <a href="contactPage.php">
-            <button class="btn btn-outline-primary mt-2">Contact US</button>
+            <button class="btn btn-outline-primary mt-2 mb-5">Contact US</button>
         </a>
     </div>
 </section>

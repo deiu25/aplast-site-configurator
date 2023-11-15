@@ -8,7 +8,7 @@
         <img class="img-fluid pvcAl-img-h" src="getsvg.php?svg=pvcHeader" alt="pvcHeader">
         <p class="pvcAl-p left">Aplast-Windows and Doors</p>
         <h1 class="h1-pvcAl-h left">Produse speciale</h1>
-        <img class="logo-pvcAl right" src="getsvg.php?svg=logoWhite" alt="logo">
+        <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">Produse speciale PVC</h1>
@@ -19,25 +19,24 @@
         </div>
     </div>
 
-    <div class="container d-flex flex-row justify-content-center gap-4 mt-5 mb-5 mom">
-    <a href="aplast60Klass.php" class="lines-image-container position-relative">
+    <div class="container d-flex flex-column flex-xl-row justify-content-center gap-4 mt-5 mb-5 mom">
+        <a href="aplast60Klass.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">APLAST 60 Klass</span>
         </a>
-        <a href="aplast70Klass.php" class="lines-image-container position-relative">
+        <a href="aplast70Klass.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_82Veka.webp" alt="pvc">
             <span class="category-image-text position-absolute translate-middle">APLAST 70</span>
         </a>
-        <a href="veka76.php" class="lines-image-container position-relative">
+        <a href="veka76.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_76Veka.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 76MD</span>
         </a>
-        <a href="veka82.php" class="lines-image-container position-relative">
+        <a href="veka82.php" class="lines-image-container position-relative d-flex justify-content-center align-items-center">
             <img class="img-fluid linesImage lines-zoom" src="./images/Aplast_70klass.webp" alt="aluminiu">
             <span class="category-image-text position-absolute translate-middle">VEKA SOFTLINE 82MD</span>
         </a>
     </div>
-
 </section>
 
 <section class="production-mid mt-5">
@@ -58,7 +57,7 @@
         <h1 class="production-subtitle mb-4">Contactează-ne</h1>
         <p class="fs-5 fw-bold text-muted mt-3">Trimite-ne detaliile și ideile tale. Vom fi fericiți să revenim la tine!</p>
         <a href="contactPage.php">
-            <button class="btn btn-outline-primary mt-2">Contact US</button>
+            <button class="btn btn-outline-primary mt-2 mb-5">Contact US</button>
         </a>
     </div>
 </section>

@@ -6,8 +6,8 @@
 <section class="production-head">
     <div class="prod-img-container">
         <img class="img-fluid prod-img-h" src="getsvg.php?svg=production" alt="production">
-        <h1 class="h1-prod-h left">Linii de Produse</h1>
-        <img class="logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
+        <h1 class="ms-5 h1-prod-h left">Linii de Produse</h1>
+        <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>
     <div class="mt-5 top">
         <h1 class="title mb-2">Produse</h1>
@@ -17,7 +17,7 @@
 
 <section class="product-lines-container1">
     <div class="container position-relative pl-first-cont mb-5">
-        <img src="./images/productLinesPVC.webp" class="left" alt="pvc">
+        <img src="./images/productLinesPVC.webp" class="left first-img-pl" alt="pvc">
         <div class="blue-square-first right">
             <div class="pl-center-text">
                 <h1 class="h1-pl">PVC</h1>
@@ -29,12 +29,12 @@
             </div>
         </div>
     </div>
+</section>
 
-    <div class="container mt-5">
-        <p class="p-center-production fs-5 fw-bold text-muted mt-3 bottom">
-            Indiferent de produsele pentru care vă veți decide, suntem bucuroși să vă oferim cele mai bune soluții, produse de calitate și servicii profesionale post-vânzare.
-        </p>
-    </div>
+<section class="container mt-5">
+    <p class="p-center-production fs-5 fw-bold text-muted mt-3 bottom">
+        Indiferent de produsele pentru care vă veți decide, suntem bucuroși să vă oferim cele mai bune soluții, produse de calitate și servicii profesionale post-vânzare.
+    </p>
 </section>
 
 <section class="product-lines-container2">
