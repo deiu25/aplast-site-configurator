@@ -5,7 +5,7 @@
 
 <section class="offices-head">
 <div class="prod-img-container">
-        <img class="img-fluid prod-img-h" src="getsvg.php?svg=production" alt="production">
+        <img class="img-fluid prod-img-h" src="getsvg.php?svg=offices" alt="offices">
         <h1 class="h1-prod-h left">Birouri</h1>
         <img class="img-fluid logo-prod right" src="getsvg.php?svg=logoWhite" alt="logo">
     </div>

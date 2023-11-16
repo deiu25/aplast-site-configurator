@@ -89,7 +89,7 @@
     </div>
 </section>
 
-<section class="prod-contact-container d-flex justify-content-center bottom">
+<section class="prod-contact-container d-flex justify-content-center bottom mt-5">
     <div class="text-center">
         <h1 class="production-subtitle mb-4">Contact</h1>
         <p class="fs-5 fw-bold text-muted mt-3">Trimiteți-vă detaliile, gândurile și ideile. Vom fi bucuroși să vă răspundem!</p>

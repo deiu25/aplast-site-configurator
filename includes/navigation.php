@@ -24,7 +24,7 @@
                         <li class="nav-item">
                             <?php
                             $currentPage = basename($_SERVER['PHP_SELF']);
-                            $whiteBgPages = ['index.php', 'shoppingCart.php', 'production.php', 'offices.php', 'contactPage.php', 'cariere.php', 'productLines.php', 'architects.php', 'installers.php', 'durabilitate.php', 'downloads.php', 'compliance.php', 'termsAndConditions.php', 'cookiePolicy.php', 'gdprPolicy.php', 'customerInformationNote.php', 'canditateInformationNote.php', 'pvc.php', 'aluminiu.php', 'momFerestre.php', 'momUsi.php', 'momProduseSpeciale.php', 'standardFerestre.php', 'standardUsi.php'];
+                            $whiteBgPages = ['index.php', 'shoppingCart.php', 'production.php', 'offices.php', 'contactPage.php', 'cariere.php', 'productLines.php', 'architects.php', 'installers.php', 'durabilitate.php', 'downloads.php', 'compliance.php', 'termsAndConditions.php', 'cookiePolicy.php', 'gdprPolicy.php', 'customerInformationNote.php', 'canditateInformationNote.php', 'pvc.php', 'aluminiu.php', 'momFerestre.php', 'momUsi.php', 'momProduseSpeciale.php', 'standardFerestre.php', 'standardUsi.php', 'aplast70Klass.php', 'veka76.php', 'veka82.php', 'aplast60Klass.php'];
 
                             function getSvg($currentPage, $whiteBgPages)
                             {
